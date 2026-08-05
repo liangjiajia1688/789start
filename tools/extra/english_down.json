@@ -1,0 +1,74 @@
+{
+  "d1": [
+    { "q": "If you have a headache, you should ___ down and rest.", "type": "single", "options": ["lie", "lay", "lied", "lying"], "answer": 0, "explain": "lie down 表示“躺下”，休息缓解头痛。" },
+    { "q": "He used to ___ late, but now he goes to bed early.", "type": "single", "options": ["stay", "stayed", "staying", "stays"], "answer": 0, "explain": "used to 后接动词原形。" },
+    { "q": "'without' is followed by a verb in the -ing form.", "type": "judge", "answer": true, "explain": "without 是介词，后接动名词 doing。" },
+    { "q": "My brother has a ___ and needs to see a dentist.", "type": "single", "options": ["toothache", "headache", "stomachache", "backache"], "answer": 0, "explain": "看牙医说明是 toothache 牙痛。" },
+    { "q": "You should take some ___ (medicine / medicines) and drink water.", "type": "fill", "answer": "medicine", "explain": "medicine 表示药时不可数，不加 s。" },
+    { "q": "Which of the following are body parts?", "type": "multi", "options": ["stomach", "knee", "fever", "throat"], "answer": [0, 1, 3], "explain": "fever 是症状不是身体部位。" },
+    { "q": "We say 'have a cold' to talk about a common illness.", "type": "judge", "answer": true, "explain": "have a cold 表示感冒。" },
+    { "q": "— I cut myself. — You should put a ___ on it.", "type": "single", "options": ["bandage", "bag", "book", "box"], "answer": 0, "explain": "伤口应贴 bandage 绷带。" },
+    { "q": "He fell off the bike and ___ (hurt) his leg.", "type": "fill", "answer": "hurt", "explain": "过去式 hurt 与原形同形。" },
+    { "q": "You ___ smoke here; it is bad for your health.", "type": "single", "options": ["should", "shouldn't", "should not to", "should to not"], "answer": 1, "explain": "对健康有害，劝告不应该吸烟，用 shouldn't。" }
+  ],
+  "d2": [
+    { "q": "She hopes ___ (help) others in the hospital.", "type": "single", "options": ["help", "to help", "helping", "helped"], "answer": 1, "explain": "hope 后接 to do。" },
+    { "q": "The boy ___ (volunteer) at the hospital last summer.", "type": "single", "options": ["volunteer", "volunteered", "volunteering", "volunteers"], "answer": 1, "explain": "last summer 用过去式 volunteered。" },
+    { "q": "Cheer up means to make someone happier.", "type": "judge", "answer": true, "explain": "cheer up 是“使振奋/使高兴起来”。" },
+    { "q": "Which of the following are phrasal verbs?", "type": "multi", "options": ["cheer up", "set up", "run out of", "happy"], "answer": [0, 1, 2], "explain": "happy 是形容词不是短语动词。" },
+    { "q": "'used to' describes a past habit that is no longer true.", "type": "judge", "answer": true, "explain": "used to 表示过去常常（现在不了）。" },
+    { "q": "They are going to ___ (give / hand) out food to the homeless.", "type": "fill", "answer": "give", "explain": "give out 表示分发。" },
+    { "q": "A volunteer is a person who helps others ___ getting paid.", "type": "single", "options": ["with", "without", "for", "by"], "answer": 1, "explain": "志愿者是不计报酬帮助他人，without getting paid。" },
+    { "q": "The old man lives ___ (alone / lonely) but he doesn't feel lonely.", "type": "fill", "answer": "alone", "explain": "alone 表“独自”，lonely 表“孤独的（感受）”。" },
+    { "q": "We can raise ___ (money) for the children in need.", "type": "single", "options": ["money", "moneys", "a money", "moneies"], "answer": 0, "explain": "money 不可数，无复数形式。" },
+    { "q": "She ___ a book club for kids last year.", "type": "single", "options": ["set up", "set off", "set down", "set about"], "answer": 0, "explain": "set up 表示“建立/创办”，符合创办读书俱乐部。" }
+  ],
+  "d3": [
+    { "q": "— Could I borrow your pen? — ___ . Here you are.", "type": "single", "options": ["No, you can't", "Sure", "Never", "Sorry"], "answer": 1, "explain": "借笔被同意，用 Sure。" },
+    { "q": "Please ___ your bed after you get up.", "type": "single", "options": ["make", "do", "clean", "wash"], "answer": 0, "explain": "整理床铺用 make the bed。" },
+    { "q": "'Could you please...?' is a polite way to make a request.", "type": "judge", "answer": true, "explain": "用 could you please 提出请求更礼貌。" },
+    { "q": "I will help you ___ I finish my homework.", "type": "single", "options": ["as soon as", "as long as", "as far as", "as well as"], "answer": 0, "explain": "as soon as 表示“一……就……”。" },
+    { "q": "Which are household chores?", "type": "multi", "options": ["sweep the floor", "fold the clothes", "do the laundry", "take a walk"], "answer": [0, 1, 2], "explain": "take a walk 散步不是家务。" },
+    { "q": "Neither of the twins ___ (like / likes) doing dishes.", "type": "fill", "answer": "likes", "explain": "neither 作主语谓语用单数 likes。" },
+    { "q": "We use 'Could I...?' to ask for permission.", "type": "judge", "answer": true, "explain": "Could I...? 用来征求许可。" },
+    { "q": "— Could you please not make noise? — ___ .", "type": "single", "options": ["Sure, I won't", "No, I will", "Yes, I can", "Sorry, I can't"], "answer": 0, "explain": "答应不吵闹用 Sure, I won't。" },
+    { "q": "It is important to share the housework with family ___ (member / members).", "type": "fill", "answer": "members", "explain": "家人成员用复数 members。" },
+    { "q": "Doing chores helps children learn to ___ themselves.", "type": "single", "options": ["look after", "look for", "look at", "look like"], "answer": 0, "explain": "look after 表示照顾自己。" }
+  ],
+  "d4": [
+    { "q": "You should ___ (talk) to your parents about it.", "type": "single", "options": ["talk", "to talk", "talking", "talked"], "answer": 0, "explain": "should 后接动词原形。" },
+    { "q": "My mom encourages me ___ (study) hard.", "type": "single", "options": ["study", "to study", "studying", "studied"], "answer": 1, "explain": "encourage sb to do 鼓励某人做某事。" },
+    { "q": "'so that' is used to express purpose.", "type": "judge", "answer": true, "explain": "so that 引导目的状语从句。" },
+    { "q": "He waited ___ his mother came back.", "type": "single", "options": ["until", "when", "after", "before"], "answer": 0, "explain": "until 表示“直到……为止”。" },
+    { "q": "Which can be used in 'verb + sb. + to do'?", "type": "multi", "options": ["ask", "tell", "let", "want"], "answer": [0, 1, 3], "explain": "let sb do 用原形，不带 to。" },
+    { "q": "Why don't you ___ (write) him a letter?", "type": "fill", "answer": "write", "explain": "Why don't you 后接动词原形。" },
+    { "q": "'until' means up to the time when something happens.", "type": "judge", "answer": true, "explain": "until 意为直到某事发生。" },
+    { "q": "The best way to solve the problem is ___ to your teacher.", "type": "single", "options": ["talk", "to talk", "talking", "talked"], "answer": 1, "explain": "the way is to do 用不定式。" },
+    { "q": "He studies hard ___ (so that) he can get good grades.", "type": "fill", "answer": "so that", "explain": "so that 表示目的“以便”。" },
+    { "q": "Too much pressure is ___ for a child's health.", "type": "single", "options": ["good", "bad", "helpful", "useful"], "answer": 1, "explain": "压力过大会有害健康，用 bad。" }
+  ],
+  "d5": [
+    { "q": "At 8 pm yesterday, I ___ TV.", "type": "single", "options": ["watched", "was watching", "watch", "am watching"], "answer": 1, "explain": "过去某一时刻正在进行的动作用过去进行时。" },
+    { "q": "___ she was reading, her brother was playing.", "type": "single", "options": ["When", "While", "If", "Because"], "answer": 1, "explain": "两个同时进行的长动作，用 While 连接。" },
+    { "q": "We use the past continuous to describe an action in progress at a past time.", "type": "judge", "answer": true, "explain": "过去进行时表示过去某时正在进行的动作。" },
+    { "q": "What ___ you doing at this time yesterday?", "type": "single", "options": ["are", "were", "was", "do"], "answer": 1, "explain": "过去时间用 were。" },
+    { "q": "Which use the past continuous correctly?", "type": "multi", "options": ["He was sleeping.", "They were eat.", "She was reading.", "We was running."], "answer": [0, 2], "explain": "eat 应为 eating；we 配 were。" },
+    { "q": "When the teacher came in, the students ___ (talk).", "type": "fill", "answer": "were talking", "explain": "老师进来时学生正在说话，用过去进行时。" },
+    { "q": "'when' can be used with a short action, 'while' with a longer action.", "type": "judge", "answer": true, "explain": "when 常接短动作，while 接长动作。" },
+    { "q": "The rain ___ (begin) while we were walking.", "type": "single", "options": ["begins", "began", "begin", "beginning"], "answer": 1, "explain": "叙述过去用 began。" },
+    { "q": "I saw a dog ___ (run) across the road when I was waiting.", "type": "fill", "answer": "running", "explain": "see sb doing 看见某人正在做某事。" },
+    { "q": "This time yesterday we ___ a music class.", "type": "single", "options": ["have", "had", "were having", "have had"], "answer": 2, "explain": "昨天这个时候我们正在上音乐课，用过去进行时。" }
+  ],
+  "d6": [
+    { "q": "The teacher told us a story. It ___ very interesting.", "type": "single", "options": ["is", "was", "were", "be"], "answer": 1, "explain": "讲故事是过去，用 was。" },
+    { "q": "I will call you as soon as I ___ (arrive) home.", "type": "single", "options": ["arrive", "will arrive", "arrived", "arriving"], "answer": 0, "explain": "as soon as 主句将来，从句用一般现在时表将来。" },
+    { "q": "'unless' means 'if not'.", "type": "judge", "answer": true, "explain": "unless = if not 除非。" },
+    { "q": "Yu Gong decided ___ (move) the mountains.", "type": "single", "options": ["move", "to move", "moving", "moved"], "answer": 1, "explain": "decide to do 决定做某事。" },
+    { "q": "Which are traditional Chinese stories?", "type": "multi", "options": ["Yu Gong moves mountains", "Hou Yi shoots the suns", "Cinderella", "Nü Wa repairs the sky"], "answer": [0, 1, 3], "explain": "Cinderella 是西方童话。" },
+    { "q": "He kept ___ (work) hard and never gave up.", "type": "fill", "answer": "working", "explain": "keep doing 坚持做某事。" },
+    { "q": "We use 'once upon a time' to begin a story.", "type": "judge", "answer": true, "explain": "once upon a time 用于故事开头“从前”。" },
+    { "q": "The man was ___ (strong) enough to carry the stone.", "type": "single", "options": ["strong", "stronger", "strongest", "more strong"], "answer": 0, "explain": "原级 strong 即可，enough 放形容词后。" },
+    { "q": "___ (As soon as) the sun rose, the birds began to sing.", "type": "fill", "answer": "As soon as", "explain": "As soon as 引导“一……就……”。" },
+    { "q": "The story teaches us to be ___ (brave) and never give up.", "type": "single", "options": ["brave", "braver", "bravest", "more brave"], "answer": 0, "explain": "be 后接原级 brave。" }
+  ]
+}

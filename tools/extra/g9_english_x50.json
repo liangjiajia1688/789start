@@ -1,0 +1,3530 @@
+{
+  "u1": [
+    {
+      "q": "— ____ do you study for a test? — I study by working with a group.",
+      "type": "single",
+      "options": [
+        "How",
+        "What",
+        "Why",
+        "When"
+      ],
+      "answer": 0,
+      "explain": "问方式用 How，答语用 by + doing 表示方式。"
+    },
+    {
+      "q": "He was ____ tired ____ he fell asleep at once.",
+      "type": "single",
+      "options": [
+        "too...to",
+        "so...that",
+        "such...that",
+        "enough...to"
+      ],
+      "answer": 1,
+      "explain": "so + 形容词 + that + 从句，表示如此……以至于……。"
+    },
+    {
+      "q": "I find it helpful ____ English songs.",
+      "type": "single",
+      "options": [
+        "listen to",
+        "listening to",
+        "to listen to",
+        "listened to"
+      ],
+      "answer": 2,
+      "explain": "find it + adj. + to do sth，it 作形式宾语，真正宾语是不定式。"
+    },
+    {
+      "q": "She speaks English ____ that everyone can understand her.",
+      "type": "single",
+      "options": [
+        "so clear",
+        "so clearly",
+        "such clear",
+        "very clearly"
+      ],
+      "answer": 1,
+      "explain": "修饰动词 speaks 要用副词 clearly，构成 so...that 结构。"
+    },
+    {
+      "q": "Which word means 'to say words in the correct way'?",
+      "type": "single",
+      "options": [
+        "pronounce",
+        "promise",
+        "produce",
+        "protect"
+      ],
+      "answer": 0,
+      "explain": "pronounce 意为发音；promise 承诺，produce 生产，protect 保护。"
+    },
+    {
+      "q": "The problem is ____ hard for me to work out.",
+      "type": "single",
+      "options": [
+        "so",
+        "too",
+        "very much",
+        "enough"
+      ],
+      "answer": 1,
+      "explain": "too + adj. + for sb + to do sth，太……而不能……。"
+    },
+    {
+      "q": "Our teacher tells us not to be afraid of ____ mistakes.",
+      "type": "single",
+      "options": [
+        "make",
+        "making",
+        "made",
+        "makes"
+      ],
+      "answer": 1,
+      "explain": "be afraid of 后接动名词，of 是介词。"
+    },
+    {
+      "q": "'Memorize' has almost the same meaning as ____.",
+      "type": "single",
+      "options": [
+        "learn by heart",
+        "give up",
+        "look up",
+        "take part"
+      ],
+      "answer": 0,
+      "explain": "memorize 记忆、背诵，等于 learn by heart。"
+    },
+    {
+      "q": "Reading aloud every morning can improve your ____.",
+      "type": "single",
+      "options": [
+        "pronunciation",
+        "population",
+        "invitation",
+        "information"
+      ],
+      "answer": 0,
+      "explain": "朗读能改善发音 pronunciation。"
+    },
+    {
+      "q": "____ word cards is a good way to remember new words.",
+      "type": "single",
+      "options": [
+        "Make",
+        "Making",
+        "Made",
+        "To making"
+      ],
+      "answer": 1,
+      "explain": "动名词短语作主语，Making word cards。"
+    },
+    {
+      "q": "He didn't do well in the exam ____ he didn't study hard.",
+      "type": "single",
+      "options": [
+        "because",
+        "so",
+        "but",
+        "though"
+      ],
+      "answer": 0,
+      "explain": "后面是原因，用 because 引导原因状语从句。"
+    },
+    {
+      "q": "The teacher speaks so fast that I can't ____ her.",
+      "type": "single",
+      "options": [
+        "follow",
+        "forget",
+        "forgive",
+        "form"
+      ],
+      "answer": 0,
+      "explain": "follow 在这里意为听懂、跟上（讲话内容）。"
+    },
+    {
+      "q": "Which phrases describe ways of learning?",
+      "type": "multi",
+      "options": [
+        "by taking notes",
+        "by asking the teacher for help",
+        "by watching TV all day",
+        "by making flashcards"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "整天看电视不是学习方式，其余都是有效的学习方法。"
+    },
+    {
+      "q": "Which sentences are grammatically correct?",
+      "type": "multi",
+      "options": [
+        "I learn English by reading aloud.",
+        "I find it hard to learn grammar.",
+        "The box is too heavy for me to carry.",
+        "He is so young that can't go to school."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "D 项 that 从句缺主语，应为 that he can't go to school。"
+    },
+    {
+      "q": "Which words are about language learning?",
+      "type": "multi",
+      "options": [
+        "pronunciation",
+        "grammar",
+        "vocabulary",
+        "furniture"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "furniture 家具与语言学习无关。"
+    },
+    {
+      "q": "Which are correct 'so...that' sentences?",
+      "type": "multi",
+      "options": [
+        "It was so cold that we stayed at home.",
+        "She was so tired that she went to bed early.",
+        "He is so a good student that everyone likes him.",
+        "The film was so boring that I fell asleep."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 应为 such a good student 或 so good a student。"
+    },
+    {
+      "q": "'Too...to' 结构在意义上相当于否定，译为'太……而不能……'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "too...to 含否定意义。"
+    },
+    {
+      "q": "在 'find it + adj. + to do sth' 中，it 是真正的宾语。",
+      "type": "judge",
+      "answer": false,
+      "explain": "it 是形式宾语，后面的不定式才是真正的宾语。"
+    },
+    {
+      "q": "Making mistakes is a normal part of learning a language.",
+      "type": "judge",
+      "answer": true,
+      "explain": "犯错是语言学习的正常过程。"
+    },
+    {
+      "q": "'Look up a word' means to search for it in a dictionary.",
+      "type": "judge",
+      "answer": true,
+      "explain": "look up 意为查阅（词典）。"
+    },
+    {
+      "q": "'Give up' means to keep on doing something.",
+      "type": "judge",
+      "answer": false,
+      "explain": "give up 意为放弃，与坚持相反。"
+    },
+    {
+      "q": "Connecting new words with pictures can help you remember them.",
+      "type": "judge",
+      "answer": true,
+      "explain": "词图联想是有效的记忆策略。"
+    },
+    {
+      "q": "在 so...that 结构中，that 引导的是结果状语从句。",
+      "type": "judge",
+      "answer": true,
+      "explain": "that 后为结果状语从句。"
+    },
+    {
+      "q": "The noun form of the verb 'pronounce' is ____.",
+      "type": "fill",
+      "answer": "pronunciation",
+      "explain": "pronounce 的名词形式为 pronunciation，注意拼写变化。"
+    },
+    {
+      "q": "'犯错误' in English is 'make ____' (plural).",
+      "type": "fill",
+      "answer": "mistakes",
+      "explain": "make mistakes 犯错误。"
+    },
+    {
+      "q": "Complete: It is important ____ (practice) speaking every day.",
+      "type": "fill",
+      "answer": "to practice",
+      "explain": "It is + adj. + to do sth 结构。"
+    },
+    {
+      "q": "'耐心'（名词）in English is ____.",
+      "type": "fill",
+      "answer": "patience",
+      "explain": "patience 是名词，形容词为 patient。"
+    },
+    {
+      "q": "'与他人合作' — 'work ____ others'.",
+      "type": "fill",
+      "answer": "with",
+      "explain": "work with sb 与某人合作。"
+    },
+    {
+      "q": "The past tense of 'read' is spelled ____ (the same spelling).",
+      "type": "fill",
+      "answer": "read",
+      "explain": "read 的过去式拼写不变，读音变为 /red/。"
+    },
+    {
+      "q": "'逐渐地' in English is ____ (an adverb ending in -ly).",
+      "type": "fill",
+      "answer": "gradually",
+      "explain": "gradual 的副词形式 gradually。"
+    }
+  ],
+  "u2": [
+    {
+      "q": "I believe ____ he is telling the truth.",
+      "type": "single",
+      "options": [
+        "that",
+        "what",
+        "if",
+        "whether"
+      ],
+      "answer": 0,
+      "explain": "陈述内容用 that 引导宾语从句。"
+    },
+    {
+      "q": "Can you tell me ____ the Spring Festival is celebrated in your hometown?",
+      "type": "single",
+      "options": [
+        "how",
+        "how is",
+        "what",
+        "what is"
+      ],
+      "answer": 0,
+      "explain": "宾语从句用陈述语序，问方式用 how。"
+    },
+    {
+      "q": "I'm not sure ____ she likes mooncakes or not.",
+      "type": "single",
+      "options": [
+        "that",
+        "if",
+        "whether",
+        "what"
+      ],
+      "answer": 2,
+      "explain": "与 or not 连用只能用 whether。"
+    },
+    {
+      "q": "He asked me ____ I had finished my homework.",
+      "type": "single",
+      "options": [
+        "that",
+        "what",
+        "if",
+        "how"
+      ],
+      "answer": 2,
+      "explain": "一般疑问句变宾语从句用 if/whether。"
+    },
+    {
+      "q": "She told me that she ____ to Beijing the next week.",
+      "type": "single",
+      "options": [
+        "will go",
+        "would go",
+        "goes",
+        "has gone"
+      ],
+      "answer": 1,
+      "explain": "主句过去时，从句用过去将来时 would go。"
+    },
+    {
+      "q": "The Water Festival is an important festival in ____.",
+      "type": "single",
+      "options": [
+        "Thailand",
+        "Japan",
+        "France",
+        "Russia"
+      ],
+      "answer": 0,
+      "explain": "泼水节是泰国等地的重要节日。"
+    },
+    {
+      "q": "Do you know ____?",
+      "type": "single",
+      "options": [
+        "where does he live",
+        "where he lives",
+        "where he live",
+        "where did he lives"
+      ],
+      "answer": 1,
+      "explain": "宾语从句要用陈述语序，主语 he 后用 lives。"
+    },
+    {
+      "q": "People eat ____ during the Dragon Boat Festival.",
+      "type": "single",
+      "options": [
+        "zongzi",
+        "mooncakes",
+        "turkey",
+        "chocolate eggs"
+      ],
+      "answer": 0,
+      "explain": "端午节吃粽子 zongzi。"
+    },
+    {
+      "q": "The colour ____ stands for good luck in China.",
+      "type": "single",
+      "options": [
+        "red",
+        "black",
+        "white",
+        "grey"
+      ],
+      "answer": 0,
+      "explain": "红色在中国象征吉祥好运。"
+    },
+    {
+      "q": "I think that the story ____ interesting.",
+      "type": "single",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "answer": 0,
+      "explain": "从句主语 the story 是单数，用 is。"
+    },
+    {
+      "q": "Halloween is on the ____ of October.",
+      "type": "single",
+      "options": [
+        "31st",
+        "25th",
+        "1st",
+        "4th"
+      ],
+      "answer": 0,
+      "explain": "万圣节前夜是 10 月 31 日。"
+    },
+    {
+      "q": "The teacher said that the earth ____ around the sun.",
+      "type": "single",
+      "options": [
+        "went",
+        "goes",
+        "will go",
+        "has gone"
+      ],
+      "answer": 1,
+      "explain": "客观真理在宾语从句中仍用一般现在时。"
+    },
+    {
+      "q": "Which words can introduce object clauses?",
+      "type": "multi",
+      "options": [
+        "that",
+        "if",
+        "whether",
+        "because"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "because 引导原因状语从句，不引导宾语从句。"
+    },
+    {
+      "q": "Which are traditional festival foods?",
+      "type": "multi",
+      "options": [
+        "mooncakes",
+        "zongzi",
+        "dumplings",
+        "umbrella"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "umbrella 雨伞不是食物。"
+    },
+    {
+      "q": "Which sentences have the correct word order?",
+      "type": "multi",
+      "options": [
+        "I don't know where he is.",
+        "Could you tell me what time it is?",
+        "Do you know where is the bank?",
+        "I wonder if she will come."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项应为 where the bank is。"
+    },
+    {
+      "q": "Which are common Spring Festival activities?",
+      "type": "multi",
+      "options": [
+        "giving red packets",
+        "having a family dinner",
+        "setting off fireworks",
+        "eating turkey"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "吃火鸡是感恩节和圣诞节的习俗。"
+    },
+    {
+      "q": "'Whether' 和 'if' 在宾语从句中都可以表示'是否'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "两者常可互换表示是否。"
+    },
+    {
+      "q": "'Whether or not' 可以连用，但 'if or not' 不可以。",
+      "type": "judge",
+      "answer": true,
+      "explain": "or not 紧跟时只能用 whether。"
+    },
+    {
+      "q": "The Mid-Autumn Festival falls on the 15th day of the eighth lunar month.",
+      "type": "judge",
+      "answer": true,
+      "explain": "中秋节为农历八月十五。"
+    },
+    {
+      "q": "Thanksgiving Day is a traditional Chinese festival.",
+      "type": "judge",
+      "answer": false,
+      "explain": "感恩节是美国等西方国家的节日。"
+    },
+    {
+      "q": "当主句是过去时，宾语从句通常要用过去的某种时态。",
+      "type": "judge",
+      "answer": true,
+      "explain": "主过从过是时态一致原则。"
+    },
+    {
+      "q": "People eat yuanxiao (tangyuan) at the Lantern Festival.",
+      "type": "judge",
+      "answer": true,
+      "explain": "元宵节吃元宵/汤圆。"
+    },
+    {
+      "q": "宾语从句应该使用疑问语序。",
+      "type": "judge",
+      "answer": false,
+      "explain": "宾语从句必须用陈述语序。"
+    },
+    {
+      "q": "According to the legend, Chang'e flew to the ____.",
+      "type": "fill",
+      "answer": "moon",
+      "explain": "嫦娥奔月，moon 意为月亮。"
+    },
+    {
+      "q": "Complete: I wonder ____ (是否) it will rain tomorrow.",
+      "type": "fill",
+      "answer": "whether",
+      "explain": "whether 或 if 均可表是否，此处填 whether。"
+    },
+    {
+      "q": "'圣诞节' in English is ____.",
+      "type": "fill",
+      "answer": "Christmas",
+      "explain": "Christmas 圣诞节，首字母大写。"
+    },
+    {
+      "q": "The noun form of the verb 'celebrate' is ____.",
+      "type": "fill",
+      "answer": "celebration",
+      "explain": "celebrate 的名词形式为 celebration。"
+    },
+    {
+      "q": "'团聚；聚在一起' — 'get ____'.",
+      "type": "fill",
+      "answer": "together",
+      "explain": "get together 相聚、团聚。"
+    },
+    {
+      "q": "Fill in the blank: He said he ____ (will) come the next day.",
+      "type": "fill",
+      "answer": "would",
+      "explain": "主句过去时，will 变 would。"
+    },
+    {
+      "q": "'放烟花' — 'set ____ fireworks'.",
+      "type": "fill",
+      "answer": "off",
+      "explain": "set off fireworks 燃放烟花。"
+    }
+  ],
+  "u3": [
+    {
+      "q": "Excuse me, ____ you tell me the way to the museum?",
+      "type": "single",
+      "options": [
+        "Could",
+        "Must",
+        "Should",
+        "Need"
+      ],
+      "answer": 0,
+      "explain": "Could you...? 是礼貌请求的常用句型。"
+    },
+    {
+      "q": "Do you know ____?",
+      "type": "single",
+      "options": [
+        "where is the post office",
+        "where the post office is",
+        "the post office where is",
+        "where does the post office"
+      ],
+      "answer": 1,
+      "explain": "宾语从句用陈述语序。"
+    },
+    {
+      "q": "Turn right ____ the first crossing.",
+      "type": "single",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "of"
+      ],
+      "answer": 2,
+      "explain": "at the first crossing 在第一个十字路口。"
+    },
+    {
+      "q": "The bank is ____ the bookstore and the hotel.",
+      "type": "single",
+      "options": [
+        "among",
+        "between",
+        "from",
+        "during"
+      ],
+      "answer": 1,
+      "explain": "between A and B 在两者之间。"
+    },
+    {
+      "q": "Which word means a place where you can watch films?",
+      "type": "single",
+      "options": [
+        "cinema",
+        "stadium",
+        "bank",
+        "bakery"
+      ],
+      "answer": 0,
+      "explain": "cinema 电影院。"
+    },
+    {
+      "q": "Could you tell me ____ to get to the train station?",
+      "type": "single",
+      "options": [
+        "what",
+        "how",
+        "who",
+        "whose"
+      ],
+      "answer": 1,
+      "explain": "how to do sth 疑问词加不定式作宾语。"
+    },
+    {
+      "q": "Go up the ____ to the second floor.",
+      "type": "single",
+      "options": [
+        "escalator",
+        "exit",
+        "entrance",
+        "corner"
+      ],
+      "answer": 0,
+      "explain": "escalator 自动扶梯。"
+    },
+    {
+      "q": "It's about ten minutes' ____ from here.",
+      "type": "single",
+      "options": [
+        "walk",
+        "walking",
+        "walked",
+        "to walk"
+      ],
+      "answer": 0,
+      "explain": "ten minutes' walk 步行十分钟的路程。"
+    },
+    {
+      "q": "— Thank you very much. — ____",
+      "type": "single",
+      "options": [
+        "You're welcome.",
+        "Never mind.",
+        "No, thanks.",
+        "That's a pity."
+      ],
+      "answer": 0,
+      "explain": "对感谢的常用回答是 You're welcome。"
+    },
+    {
+      "q": "I'd like to know ____ we should meet tomorrow.",
+      "type": "single",
+      "options": [
+        "when",
+        "how many",
+        "which of",
+        "what for"
+      ],
+      "answer": 0,
+      "explain": "问时间用 when 引导宾语从句。"
+    },
+    {
+      "q": "Which sentence is the most polite?",
+      "type": "single",
+      "options": [
+        "Where is the toilet?",
+        "Tell me the toilet.",
+        "Could you please tell me where the restrooms are?",
+        "Toilet! Now!"
+      ],
+      "answer": 2,
+      "explain": "Could you please...? 最委婉礼貌。"
+    },
+    {
+      "q": "There is a ____ where you can buy medicine.",
+      "type": "single",
+      "options": [
+        "pharmacy",
+        "library",
+        "stadium",
+        "gallery"
+      ],
+      "answer": 0,
+      "explain": "pharmacy 药店。"
+    },
+    {
+      "q": "Which words are places in a town?",
+      "type": "multi",
+      "options": [
+        "museum",
+        "restaurant",
+        "supermarket",
+        "honest"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "honest 是形容词，不是地点名词。"
+    },
+    {
+      "q": "Which are correct object clauses?",
+      "type": "multi",
+      "options": [
+        "Could you tell me what he does?",
+        "Do you know when the bus leaves?",
+        "Could you tell me where is he?",
+        "I wonder how I can get there."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项语序错误，应为 where he is。"
+    },
+    {
+      "q": "Which expressions are used to give directions?",
+      "type": "multi",
+      "options": [
+        "Go along this street.",
+        "Turn left at the corner.",
+        "It's next to the bank.",
+        "Nice to meet you."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "D 项是问候语，不是指路。"
+    },
+    {
+      "q": "Which are polite expressions?",
+      "type": "multi",
+      "options": [
+        "please",
+        "thank you",
+        "excuse me",
+        "shut up"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "shut up 闭嘴，很不礼貌。"
+    },
+    {
+      "q": "'Excuse me' is often used before asking a stranger for help.",
+      "type": "judge",
+      "answer": true,
+      "explain": "打扰陌生人前先说 Excuse me。"
+    },
+    {
+      "q": "在宾语从句中不再使用 do/does/did 作助动词。",
+      "type": "judge",
+      "answer": true,
+      "explain": "宾语从句用陈述语序，去掉助动词并还原时态。"
+    },
+    {
+      "q": "'Restroom' is the American English word for a public toilet.",
+      "type": "judge",
+      "answer": true,
+      "explain": "restroom 是美式英语中的洗手间。"
+    },
+    {
+      "q": "'Go past the bank' means to walk beyond the bank.",
+      "type": "judge",
+      "answer": true,
+      "explain": "go past 意为经过、走过。"
+    },
+    {
+      "q": "'Turn left' and 'turn right' mean the same thing.",
+      "type": "judge",
+      "answer": false,
+      "explain": "一个是向左转，一个是向右转，方向相反。"
+    },
+    {
+      "q": "Using 'Could you please...' is more polite than giving an order.",
+      "type": "judge",
+      "answer": true,
+      "explain": "请求句型比祈使命令更礼貌。"
+    },
+    {
+      "q": "A department store is a place where you borrow books.",
+      "type": "judge",
+      "answer": false,
+      "explain": "百货商店是购物的地方，借书要去图书馆。"
+    },
+    {
+      "q": "The noun of 'direct' meaning 指路、方向 is ____ (often plural).",
+      "type": "fill",
+      "answer": "directions",
+      "explain": "ask for directions 问路。"
+    },
+    {
+      "q": "'在拐角处' — 'at the ____'.",
+      "type": "fill",
+      "answer": "corner",
+      "explain": "at the corner 在拐角处。"
+    },
+    {
+      "q": "Complete: Could you tell me where I can ____ (buy) some stamps?",
+      "type": "fill",
+      "answer": "buy",
+      "explain": "can 后接动词原形。"
+    },
+    {
+      "q": "'过马路' — 'cross the ____'.",
+      "type": "fill",
+      "answer": "street",
+      "explain": "cross the street 过马路。"
+    },
+    {
+      "q": "'洗手间'的美式英语单词是 ____.",
+      "type": "fill",
+      "answer": "restroom",
+      "explain": "美式 restroom，英式常用 toilet。"
+    },
+    {
+      "q": "'不用谢'的一种表达是 'You're ____'.",
+      "type": "fill",
+      "answer": "welcome",
+      "explain": "You're welcome. 不客气。"
+    },
+    {
+      "q": "'请求；要求'（动词，以 r 开头）is ____.",
+      "type": "fill",
+      "answer": "request",
+      "explain": "request 请求，也可作名词。"
+    }
+  ],
+  "u4": [
+    {
+      "q": "There ____ a tall tree in front of my house, but it was cut down.",
+      "type": "single",
+      "options": [
+        "used to have",
+        "used to be",
+        "was used to be",
+        "is used to be"
+      ],
+      "answer": 1,
+      "explain": "There used to be 表示过去存在某物。"
+    },
+    {
+      "q": "He didn't use to ____ so much.",
+      "type": "single",
+      "options": [
+        "talks",
+        "talk",
+        "talking",
+        "talked"
+      ],
+      "answer": 1,
+      "explain": "didn't use to 后接动词原形。"
+    },
+    {
+      "q": "Let's go for a walk, ____?",
+      "type": "single",
+      "options": [
+        "shall we",
+        "will you",
+        "do we",
+        "don't we"
+      ],
+      "answer": 0,
+      "explain": "Let's 开头的祈使句反意疑问句用 shall we。"
+    },
+    {
+      "q": "You have never been to Beijing, ____?",
+      "type": "single",
+      "options": [
+        "have you",
+        "haven't you",
+        "did you",
+        "do you"
+      ],
+      "answer": 0,
+      "explain": "never 表否定，反意疑问句用肯定形式 have you。"
+    },
+    {
+      "q": "Which word means 'having no fear'?",
+      "type": "single",
+      "options": [
+        "brave",
+        "shy",
+        "silent",
+        "serious"
+      ],
+      "answer": 0,
+      "explain": "brave 勇敢的。"
+    },
+    {
+      "q": "Paper is used ____ books and newspapers.",
+      "type": "single",
+      "options": [
+        "make",
+        "to make",
+        "making",
+        "made"
+      ],
+      "answer": 1,
+      "explain": "be used to do sth 被用来做某事。"
+    },
+    {
+      "q": "She used to be shy, but now she is quite ____.",
+      "type": "single",
+      "options": [
+        "outgoing",
+        "quiet",
+        "boring",
+        "careless"
+      ],
+      "answer": 0,
+      "explain": "与 shy 相对的是 outgoing 外向的。"
+    },
+    {
+      "q": "I ____ to being alone now; it doesn't bother me.",
+      "type": "single",
+      "options": [
+        "am used",
+        "used",
+        "was use",
+        "use"
+      ],
+      "answer": 0,
+      "explain": "be used to doing sth 习惯于做某事。"
+    },
+    {
+      "q": "Tom used to wear glasses, ____?",
+      "type": "single",
+      "options": [
+        "didn't he",
+        "doesn't he",
+        "wasn't he",
+        "hasn't he"
+      ],
+      "answer": 0,
+      "explain": "used to 的反意疑问句常用 didn't + 主语。"
+    },
+    {
+      "q": "Which sentence shows a change from the past to now?",
+      "type": "single",
+      "options": [
+        "He used to be fat, but now he is thin.",
+        "He is very tall.",
+        "He likes music very much.",
+        "He plays football every day."
+      ],
+      "answer": 0,
+      "explain": "used to...but now... 表示前后变化。"
+    },
+    {
+      "q": "In the last few years, great changes have ____ place in my hometown.",
+      "type": "single",
+      "options": [
+        "taken",
+        "been taken",
+        "took",
+        "taking"
+      ],
+      "answer": 0,
+      "explain": "take place 无被动语态，现在完成时为 have taken place。"
+    },
+    {
+      "q": "She ____ afraid of speaking in public, but now she enjoys it.",
+      "type": "single",
+      "options": [
+        "uses to be",
+        "used to be",
+        "is used to be",
+        "used to being"
+      ],
+      "answer": 1,
+      "explain": "used to be 过去曾经是。"
+    },
+    {
+      "q": "Which are correct tag questions?",
+      "type": "multi",
+      "options": [
+        "She is a teacher, isn't she?",
+        "They can swim, can't they?",
+        "You like apples, don't you?",
+        "He went home, didn't he go?"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "D 项多余，应为 didn't he?"
+    },
+    {
+      "q": "Which adjectives describe personality?",
+      "type": "multi",
+      "options": [
+        "humorous",
+        "serious",
+        "outgoing",
+        "yellow"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "yellow 是颜色，不描述性格。"
+    },
+    {
+      "q": "Which sentences use 'be used to' correctly?",
+      "type": "multi",
+      "options": [
+        "I am used to getting up early.",
+        "He is used to the weather here.",
+        "She is used to eat spicy food.",
+        "We are used to living in the city."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项应为 is used to eating。"
+    },
+    {
+      "q": "Which phrases mean 'to take care of'?",
+      "type": "multi",
+      "options": [
+        "look after",
+        "care for",
+        "take care of",
+        "look up"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "look up 是查阅，不表示照顾。"
+    },
+    {
+      "q": "'There used to be' 用来说明某物过去存在。",
+      "type": "judge",
+      "answer": true,
+      "explain": "There used to be 过去有。"
+    },
+    {
+      "q": "反意疑问句中，如果主句是否定的，附加问句用肯定形式。",
+      "type": "judge",
+      "answer": true,
+      "explain": "前否后肯是基本规则。"
+    },
+    {
+      "q": "'Be used to do sth' 是被动结构，意为'被用来做某事'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "be used to do 表被动用途。"
+    },
+    {
+      "q": "'Used to' 后面可以直接接动词的 -ing 形式。",
+      "type": "judge",
+      "answer": false,
+      "explain": "used to 后必须接动词原形。"
+    },
+    {
+      "q": "'Deal with' means to handle a problem or situation.",
+      "type": "judge",
+      "answer": true,
+      "explain": "deal with 处理、应对。"
+    },
+    {
+      "q": "在 'Let's go, shall we?' 中，附加问句是 shall we。",
+      "type": "judge",
+      "answer": true,
+      "explain": "Let's 开头用 shall we。"
+    },
+    {
+      "q": "People's hobbies and characters never change as they grow up.",
+      "type": "judge",
+      "answer": false,
+      "explain": "人的爱好和性格会随成长而改变。"
+    },
+    {
+      "q": "The noun form of 'humorous' is ____ (American spelling).",
+      "type": "fill",
+      "answer": "humor",
+      "explain": "美式拼写 humor，英式为 humour。"
+    },
+    {
+      "q": "'过去害怕黑暗' — 'used to be afraid of the ____'.",
+      "type": "fill",
+      "answer": "dark",
+      "explain": "the dark 黑暗。"
+    },
+    {
+      "q": "Fill in the blank: He is used to ____ (live) in the country.",
+      "type": "fill",
+      "answer": "living",
+      "explain": "be used to 中 to 是介词，后接动名词。"
+    },
+    {
+      "q": "'不再' — 'not ... any ____'.",
+      "type": "fill",
+      "answer": "more",
+      "explain": "not...any more 不再。"
+    },
+    {
+      "q": "'与某人相处融洽' — 'get ____ well with sb'.",
+      "type": "fill",
+      "answer": "along",
+      "explain": "get along well with sb。"
+    },
+    {
+      "q": "The comparative form of 'outgoing' is 'more ____'.",
+      "type": "fill",
+      "answer": "outgoing",
+      "explain": "多音节形容词用 more 构成比较级。"
+    },
+    {
+      "q": "'为某事感到自豪' — 'take pride ____ sth'.",
+      "type": "fill",
+      "answer": "in",
+      "explain": "take pride in sth 等于 be proud of sth。"
+    }
+  ],
+  "u5": [
+    {
+      "q": "The classroom ____ every day by the students.",
+      "type": "single",
+      "options": [
+        "cleans",
+        "is cleaned",
+        "cleaned",
+        "is cleaning"
+      ],
+      "answer": 1,
+      "explain": "一般现在时被动语态 is + 过去分词。"
+    },
+    {
+      "q": "Wine is made ____ grapes.",
+      "type": "single",
+      "options": [
+        "of",
+        "from",
+        "in",
+        "by"
+      ],
+      "answer": 1,
+      "explain": "葡萄酒中看不出葡萄原样，用 be made from。"
+    },
+    {
+      "q": "These toys ____ by children all over the world.",
+      "type": "single",
+      "options": [
+        "love",
+        "are loved",
+        "is loved",
+        "loving"
+      ],
+      "answer": 1,
+      "explain": "主语复数，被动用 are loved。"
+    },
+    {
+      "q": "The story ____ by Mo Yan.",
+      "type": "single",
+      "options": [
+        "writes",
+        "was wrote",
+        "was written",
+        "is writing"
+      ],
+      "answer": 2,
+      "explain": "被动语态用 was + 过去分词 written。"
+    },
+    {
+      "q": "English ____ in many countries around the world.",
+      "type": "single",
+      "options": [
+        "speaks",
+        "is spoken",
+        "is speaking",
+        "spoke"
+      ],
+      "answer": 1,
+      "explain": "语言被人们说，用被动 is spoken。"
+    },
+    {
+      "q": "This kind of cloth feels ____.",
+      "type": "single",
+      "options": [
+        "softly",
+        "soft",
+        "softness",
+        "more softly"
+      ],
+      "answer": 1,
+      "explain": "feel 是系动词，后接形容词。"
+    },
+    {
+      "q": "The model plane was made ____ hand.",
+      "type": "single",
+      "options": [
+        "by",
+        "in",
+        "of",
+        "with"
+      ],
+      "answer": 0,
+      "explain": "by hand 手工制作。"
+    },
+    {
+      "q": "Jingdezhen is famous for its ____.",
+      "type": "single",
+      "options": [
+        "porcelain",
+        "silk",
+        "coffee",
+        "wool"
+      ],
+      "answer": 0,
+      "explain": "景德镇以瓷器 porcelain 闻名。"
+    },
+    {
+      "q": "Chopsticks are usually made ____ wood or bamboo.",
+      "type": "single",
+      "options": [
+        "from",
+        "of",
+        "in",
+        "by"
+      ],
+      "answer": 1,
+      "explain": "看得出原材料，用 be made of。"
+    },
+    {
+      "q": "Many trees ____ in our school every spring.",
+      "type": "single",
+      "options": [
+        "plant",
+        "are planted",
+        "planted",
+        "is planted"
+      ],
+      "answer": 1,
+      "explain": "树是被种，主语复数用 are planted。"
+    },
+    {
+      "q": "The passive form of 'They clean the room.' is ____.",
+      "type": "single",
+      "options": [
+        "The room cleans.",
+        "The room is cleaned.",
+        "The room was clean.",
+        "The room cleaning."
+      ],
+      "answer": 1,
+      "explain": "主动宾语变被动主语，谓语变 is cleaned。"
+    },
+    {
+      "q": "This bag ____ of leather and it looks very nice.",
+      "type": "single",
+      "options": [
+        "made",
+        "is made",
+        "makes",
+        "is making"
+      ],
+      "answer": 1,
+      "explain": "be made of 由……制成，需用被动形式。"
+    },
+    {
+      "q": "Which words can be materials?",
+      "type": "multi",
+      "options": [
+        "cotton",
+        "glass",
+        "silver",
+        "quickly"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "quickly 是副词，不是材料。"
+    },
+    {
+      "q": "Which sentences are correct passive forms?",
+      "type": "multi",
+      "options": [
+        "Rice is grown in the south.",
+        "The window was broken by Tom.",
+        "The book is write by him.",
+        "Tea is produced in Hangzhou."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项应为 is written。"
+    },
+    {
+      "q": "Which are traditional Chinese products?",
+      "type": "multi",
+      "options": [
+        "silk",
+        "tea",
+        "paper cutting",
+        "pizza"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "pizza 披萨来自意大利。"
+    },
+    {
+      "q": "Which sentences use 'by' to show the doer of the action?",
+      "type": "multi",
+      "options": [
+        "The song was sung by Lily.",
+        "The picture was drawn by my sister.",
+        "The desk is made of wood.",
+        "The letter was written by Tom."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项 of wood 表示材料，不是动作执行者。"
+    },
+    {
+      "q": "'Be made from' 用于原材料在成品中已看不出来的情况。",
+      "type": "judge",
+      "answer": true,
+      "explain": "made from 强调原料已发生变化。"
+    },
+    {
+      "q": "在被动语态中，如果动作执行者不明确，by 短语可以省略。",
+      "type": "judge",
+      "answer": true,
+      "explain": "执行者不明或不重要时省略 by 短语。"
+    },
+    {
+      "q": "'They make cars in Japan.' 的被动形式是 'Cars are made in Japan.'",
+      "type": "judge",
+      "answer": true,
+      "explain": "宾语 cars 变为主语，谓语变被动。"
+    },
+    {
+      "q": "只有及物动词（带宾语的动词）才能用于被动语态。",
+      "type": "judge",
+      "answer": true,
+      "explain": "不及物动词没有宾语，不能变被动。"
+    },
+    {
+      "q": "'Be made of' 和 'be made from' 的用法完全相同。",
+      "type": "judge",
+      "answer": false,
+      "explain": "前者原料可辨认，后者不可辨认。"
+    },
+    {
+      "q": "Anhui Province is well known for its tea.",
+      "type": "judge",
+      "answer": true,
+      "explain": "安徽以茶叶闻名，如黄山毛峰。"
+    },
+    {
+      "q": "一般现在时的被动语态结构是 'am/is/are + 过去分词'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "这是现在时被动的基本构成。"
+    },
+    {
+      "q": "The past participle of 'write' is ____.",
+      "type": "fill",
+      "answer": "written",
+      "explain": "write-wrote-written。"
+    },
+    {
+      "q": "'棉花' in English is ____.",
+      "type": "fill",
+      "answer": "cotton",
+      "explain": "cotton 棉花、棉布。"
+    },
+    {
+      "q": "Change into passive: 'We use knives to cut things.' → 'Knives ____ (use) to cut things.'",
+      "type": "fill",
+      "answer": "are used",
+      "explain": "复数主语用 are used。"
+    },
+    {
+      "q": "'环境'（名词）in English is ____.",
+      "type": "fill",
+      "answer": "environment",
+      "explain": "environment 环境。"
+    },
+    {
+      "q": "'以……闻名' — 'be famous ____ sth'.",
+      "type": "fill",
+      "answer": "for",
+      "explain": "be famous for 因……而出名。"
+    },
+    {
+      "q": "'手工制作的' — 'made by ____'.",
+      "type": "fill",
+      "answer": "hand",
+      "explain": "made by hand 手工制作。"
+    },
+    {
+      "q": "The past participle of 'do' is ____.",
+      "type": "fill",
+      "answer": "done",
+      "explain": "do-did-done。"
+    }
+  ],
+  "u6": [
+    {
+      "q": "Paper ____ by the Chinese about 2,000 years ago.",
+      "type": "single",
+      "options": [
+        "invents",
+        "was invented",
+        "invented",
+        "is invented"
+      ],
+      "answer": 1,
+      "explain": "过去时被动 was invented。"
+    },
+    {
+      "q": "The first plane ____ by the Wright brothers.",
+      "type": "single",
+      "options": [
+        "is made",
+        "was made",
+        "makes",
+        "made"
+      ],
+      "answer": 1,
+      "explain": "过去发生的被动动作用 was made。"
+    },
+    {
+      "q": "According to the story, tea ____ by accident.",
+      "type": "single",
+      "options": [
+        "discovered",
+        "was discovered",
+        "discovers",
+        "is discovering"
+      ],
+      "answer": 1,
+      "explain": "茶是被发现的，用过去被动。"
+    },
+    {
+      "q": "Who ____ the telephone invented by?",
+      "type": "single",
+      "options": [
+        "is",
+        "was",
+        "did",
+        "were"
+      ],
+      "answer": 1,
+      "explain": "过去被动疑问句用 was + 主语 + 过去分词。"
+    },
+    {
+      "q": "A knife is used ____ cutting things.",
+      "type": "single",
+      "options": [
+        "for",
+        "to",
+        "by",
+        "with"
+      ],
+      "answer": 0,
+      "explain": "be used for doing sth 被用于做某事。"
+    },
+    {
+      "q": "The ruler is used ____ straight lines.",
+      "type": "single",
+      "options": [
+        "draw",
+        "to draw",
+        "drawing",
+        "drew"
+      ],
+      "answer": 1,
+      "explain": "be used to do sth 被用来做某事。"
+    },
+    {
+      "q": "Which invention helps people see at night?",
+      "type": "single",
+      "options": [
+        "the light bulb",
+        "the wheel",
+        "the compass",
+        "the abacus"
+      ],
+      "answer": 0,
+      "explain": "电灯泡照明。"
+    },
+    {
+      "q": "The compass was used to help sailors find their ____.",
+      "type": "single",
+      "options": [
+        "way",
+        "road",
+        "street",
+        "path"
+      ],
+      "answer": 0,
+      "explain": "find one's way 辨明方向。"
+    },
+    {
+      "q": "'Not only ... but also ...' means ____.",
+      "type": "single",
+      "options": [
+        "不仅……而且……",
+        "既不……也不……",
+        "要么……要么……",
+        "虽然……但是……"
+      ],
+      "answer": 0,
+      "explain": "not only...but also... 不仅……而且……。"
+    },
+    {
+      "q": "These old houses ____ over 100 years ago.",
+      "type": "single",
+      "options": [
+        "build",
+        "built",
+        "were built",
+        "are built"
+      ],
+      "answer": 2,
+      "explain": "复数主语的过去被动用 were built。"
+    },
+    {
+      "q": "The Olympic Games ____ held in Beijing in 2008.",
+      "type": "single",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "is"
+      ],
+      "answer": 1,
+      "explain": "the Olympic Games 视为复数，用 were。"
+    },
+    {
+      "q": "Which one is NOT one of ancient China's four great inventions?",
+      "type": "single",
+      "options": [
+        "gunpowder",
+        "printing",
+        "the compass",
+        "the telescope"
+      ],
+      "answer": 3,
+      "explain": "四大发明是造纸术、印刷术、火药和指南针。"
+    },
+    {
+      "q": "Which sentences are in the past passive voice?",
+      "type": "multi",
+      "options": [
+        "The song was written in 1990.",
+        "The house was built by my grandfather.",
+        "They built the house.",
+        "The letters were sent yesterday."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项是主动语态。"
+    },
+    {
+      "q": "Which are useful modern inventions?",
+      "type": "multi",
+      "options": [
+        "the computer",
+        "the mobile phone",
+        "the car",
+        "the dinosaur"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "恐龙是史前动物，不是发明。"
+    },
+    {
+      "q": "Which phrases are correct?",
+      "type": "multi",
+      "options": [
+        "be used for doing sth",
+        "be used to do sth",
+        "be used by sb",
+        "be used of sth"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "没有 be used of 的用法。"
+    },
+    {
+      "q": "Which words are related to inventing?",
+      "type": "multi",
+      "options": [
+        "invention",
+        "inventor",
+        "discover",
+        "delicious"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "delicious 美味的，与发明无关。"
+    },
+    {
+      "q": "Papermaking is one of the four great inventions of ancient China.",
+      "type": "judge",
+      "answer": true,
+      "explain": "造纸术是四大发明之一。"
+    },
+    {
+      "q": "过去时的被动语态用 'was/were + 过去分词' 构成。",
+      "type": "judge",
+      "answer": true,
+      "explain": "这是过去被动的基本结构。"
+    },
+    {
+      "q": "'By accident' means on purpose.",
+      "type": "judge",
+      "answer": false,
+      "explain": "by accident 意为偶然地，与 on purpose 故意相反。"
+    },
+    {
+      "q": "Tea was first drunk in China.",
+      "type": "judge",
+      "answer": true,
+      "explain": "中国是最早饮茶的国家。"
+    },
+    {
+      "q": "当我们不知道动作的执行者时，常使用被动语态。",
+      "type": "judge",
+      "answer": true,
+      "explain": "被动语态可以避免提及不明的执行者。"
+    },
+    {
+      "q": "'Be used by sb' 说明这个东西被谁使用。",
+      "type": "judge",
+      "answer": true,
+      "explain": "by 后接使用者。"
+    },
+    {
+      "q": "The Wright brothers made the first practical airplane.",
+      "type": "judge",
+      "answer": true,
+      "explain": "莱特兄弟发明了第一架实用飞机。"
+    },
+    {
+      "q": "The past participle of 'take' is ____.",
+      "type": "fill",
+      "answer": "taken",
+      "explain": "take-took-taken。"
+    },
+    {
+      "q": "'偶然地；碰巧' — 'by ____' (与 chance 有关).",
+      "type": "fill",
+      "answer": "chance",
+      "explain": "by chance 偶然地。"
+    },
+    {
+      "q": "Fill in the blank: The bridge ____ (build) two years ago.",
+      "type": "fill",
+      "answer": "was built",
+      "explain": "过去被动 was built。"
+    },
+    {
+      "q": "The noun form of the verb 'invent' is ____.",
+      "type": "fill",
+      "answer": "invention",
+      "explain": "invent 的名词形式为 invention。"
+    },
+    {
+      "q": "'把……分成' — 'divide sth ____ parts'.",
+      "type": "fill",
+      "answer": "into",
+      "explain": "divide sth into parts 把某物分成几部分。"
+    },
+    {
+      "q": "Fill in the blank: These photos ____ (take) by my father last week.",
+      "type": "fill",
+      "answer": "were taken",
+      "explain": "复数主语过去被动 were taken。"
+    },
+    {
+      "q": "'电灯泡' in English is 'light ____'.",
+      "type": "fill",
+      "answer": "bulb",
+      "explain": "light bulb 电灯泡。"
+    }
+  ],
+  "l1": [
+    {
+      "q": "Homework ____ be finished on time.",
+      "type": "single",
+      "options": [
+        "should",
+        "should to",
+        "is should",
+        "shoulds"
+      ],
+      "answer": 0,
+      "explain": "情态动词后接 be + 过去分词构成被动。"
+    },
+    {
+      "q": "The rules must ____ by everyone.",
+      "type": "single",
+      "options": [
+        "follow",
+        "be followed",
+        "following",
+        "followed"
+      ],
+      "answer": 1,
+      "explain": "must be followed 必须被遵守。"
+    },
+    {
+      "q": "Teenagers ____ allowed to stay up too late.",
+      "type": "single",
+      "options": [
+        "should be",
+        "shouldn't be",
+        "should not to be",
+        "aren't should"
+      ],
+      "answer": 1,
+      "explain": "熬夜太晚不应被允许，用 shouldn't be allowed。"
+    },
+    {
+      "q": "We should be ____ to think for ourselves.",
+      "type": "single",
+      "options": [
+        "encourage",
+        "encouraged",
+        "encouraging",
+        "encourages"
+      ],
+      "answer": 1,
+      "explain": "should be + 过去分词构成情态被动。"
+    },
+    {
+      "q": "Sixteen-year-olds should be allowed to ____ their own clothes.",
+      "type": "single",
+      "options": [
+        "choose",
+        "chose",
+        "choosing",
+        "chosen"
+      ],
+      "answer": 0,
+      "explain": "be allowed to 后接动词原形。"
+    },
+    {
+      "q": "'Have a part-time job' means ____.",
+      "type": "single",
+      "options": [
+        "做兼职工作",
+        "做全职工作",
+        "做家庭作业",
+        "参加考试"
+      ],
+      "answer": 0,
+      "explain": "part-time job 兼职工作。"
+    },
+    {
+      "q": "My parents are strict ____ me about my study habits.",
+      "type": "single",
+      "options": [
+        "in",
+        "with",
+        "to",
+        "for"
+      ],
+      "answer": 1,
+      "explain": "be strict with sb 对某人严格。"
+    },
+    {
+      "q": "It's important for teenagers ____ enough sleep.",
+      "type": "single",
+      "options": [
+        "get",
+        "to get",
+        "getting",
+        "got"
+      ],
+      "answer": 1,
+      "explain": "It's + adj. + for sb + to do sth。"
+    },
+    {
+      "q": "Which sentence is correct?",
+      "type": "single",
+      "options": [
+        "Students must not be allowed to smoke.",
+        "Students must not allowed to smoke.",
+        "Students must not be allow to smoke.",
+        "Students not must be allowed smoke."
+      ],
+      "answer": 0,
+      "explain": "情态被动为 must not be + 过去分词。"
+    },
+    {
+      "q": "Old people should ____ well by their children.",
+      "type": "single",
+      "options": [
+        "look after",
+        "be looked after",
+        "looked after",
+        "looking after"
+      ],
+      "answer": 1,
+      "explain": "短语动词变被动要保留介词：be looked after。"
+    },
+    {
+      "q": "We should be allowed ____ our own decisions.",
+      "type": "single",
+      "options": [
+        "make",
+        "to make",
+        "making",
+        "made"
+      ],
+      "answer": 1,
+      "explain": "be allowed to do sth。"
+    },
+    {
+      "q": "'Instead of' is usually followed by ____.",
+      "type": "single",
+      "options": [
+        "a noun or an -ing form",
+        "a that-clause",
+        "an infinitive with to",
+        "an adjective"
+      ],
+      "answer": 0,
+      "explain": "instead of 是介词短语，后接名词或动名词。"
+    },
+    {
+      "q": "Which are reasonable responsibilities for teenagers?",
+      "type": "multi",
+      "options": [
+        "studying hard",
+        "helping with housework",
+        "following school rules",
+        "staying out all night"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "彻夜不归不是应尽的责任。"
+    },
+    {
+      "q": "Which sentences are correct modal passives?",
+      "type": "multi",
+      "options": [
+        "The work must be done today.",
+        "Books can be borrowed here.",
+        "The rule should followed.",
+        "Photos may be taken here."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项漏了 be，应为 should be followed。"
+    },
+    {
+      "q": "Which words can mean 'to let someone do something'?",
+      "type": "multi",
+      "options": [
+        "allow",
+        "permit",
+        "let",
+        "forbid"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "forbid 意为禁止，意思相反。"
+    },
+    {
+      "q": "Which school rules are reasonable?",
+      "type": "multi",
+      "options": [
+        "Students should be on time.",
+        "Students should keep the classroom clean.",
+        "Students should not run in the hallways.",
+        "Students should never ask questions."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "禁止提问不合理。"
+    },
+    {
+      "q": "'Should be allowed to do' 是含情态动词的被动语态。",
+      "type": "judge",
+      "answer": true,
+      "explain": "情态动词 + be + 过去分词。"
+    },
+    {
+      "q": "'Allow sb to do sth' 是正确的主动结构。",
+      "type": "judge",
+      "answer": true,
+      "explain": "allow 后接不定式作宾语补足语。"
+    },
+    {
+      "q": "'Be strict with sb' 和 'be strict in sth' 都是正确搭配。",
+      "type": "judge",
+      "answer": true,
+      "explain": "with 接人，in 接事。"
+    },
+    {
+      "q": "Teenagers should never be given any freedom at all.",
+      "type": "judge",
+      "answer": false,
+      "explain": "青少年应在合理范围内拥有一定自由。"
+    },
+    {
+      "q": "'Get in the way of' means to stop something from happening.",
+      "type": "judge",
+      "answer": true,
+      "explain": "get in the way of 妨碍、阻碍。"
+    },
+    {
+      "q": "含情态动词的被动语态结构是'情态动词 + be + 过去分词'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "这是本单元的核心结构。"
+    },
+    {
+      "q": "'Sixteen-year-olds' 在句中可以作名词，意为'16 岁的孩子们'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "带 -s 的复合名词表示某年龄段的人。"
+    },
+    {
+      "q": "The noun form of the verb 'decide' is ____.",
+      "type": "fill",
+      "answer": "decision",
+      "explain": "decide 的名词形式为 decision。"
+    },
+    {
+      "q": "'足够的睡眠' — 'enough ____'.",
+      "type": "fill",
+      "answer": "sleep",
+      "explain": "enough sleep 充足睡眠。"
+    },
+    {
+      "q": "Fill in the blank: Teenagers should not ____ (allow) to drive.",
+      "type": "fill",
+      "answer": "be allowed",
+      "explain": "情态被动 should not be allowed。"
+    },
+    {
+      "q": "'兼职工作' — 'a part-____ job'.",
+      "type": "fill",
+      "answer": "time",
+      "explain": "part-time job 兼职工作。"
+    },
+    {
+      "q": "'专心于；集中精力于' — 'concentrate ____ sth'.",
+      "type": "fill",
+      "answer": "on",
+      "explain": "concentrate on 专注于。"
+    },
+    {
+      "q": "The opposite of the noun 'success' is ____.",
+      "type": "fill",
+      "answer": "failure",
+      "explain": "success 成功，failure 失败。"
+    },
+    {
+      "q": "'实现梦想' — 'achieve one's ____'.",
+      "type": "fill",
+      "answer": "dream",
+      "explain": "achieve one's dream 实现梦想。"
+    }
+  ],
+  "l2": [
+    {
+      "q": "The man in black ____ be a thief, but I'm not sure.",
+      "type": "single",
+      "options": [
+        "must",
+        "might",
+        "can't",
+        "should"
+      ],
+      "answer": 1,
+      "explain": "不确定的推测用 might。"
+    },
+    {
+      "q": "Whose jacket is this? It ____ be Mike's — it's much too small for him.",
+      "type": "single",
+      "options": [
+        "must",
+        "might",
+        "can't",
+        "could"
+      ],
+      "answer": 2,
+      "explain": "太小了，不可能是他的，用 can't。"
+    },
+    {
+      "q": "There is nobody in the room. They ____ be out.",
+      "type": "single",
+      "options": [
+        "must",
+        "can't",
+        "needn't",
+        "mustn't"
+      ],
+      "answer": 0,
+      "explain": "有依据的肯定推测用 must。"
+    },
+    {
+      "q": "This handbag ____ Anna's; she lost hers yesterday.",
+      "type": "single",
+      "options": [
+        "can't be",
+        "must be",
+        "needn't be",
+        "mustn't be"
+      ],
+      "answer": 1,
+      "explain": "她昨天丢了包，因此这个很可能就是她的。"
+    },
+    {
+      "q": "'Belong to' cannot normally be used in the ____ form.",
+      "type": "single",
+      "options": [
+        "continuous",
+        "past",
+        "present",
+        "negative"
+      ],
+      "answer": 0,
+      "explain": "belong to 是状态动词，一般不用进行时。"
+    },
+    {
+      "q": "Whose book is this? — It's ____.",
+      "type": "single",
+      "options": [
+        "her",
+        "hers",
+        "she",
+        "she's"
+      ],
+      "answer": 1,
+      "explain": "名词性物主代词 hers 可单独使用。"
+    },
+    {
+      "q": "A person who studies ancient objects and buildings is an ____.",
+      "type": "single",
+      "options": [
+        "archaeologist",
+        "engineer",
+        "astronaut",
+        "artist"
+      ],
+      "answer": 0,
+      "explain": "archaeologist 考古学家。"
+    },
+    {
+      "q": "'Run after' means ____.",
+      "type": "single",
+      "options": [
+        "追赶",
+        "跑开",
+        "跑步锻炼",
+        "赛跑"
+      ],
+      "answer": 0,
+      "explain": "run after sb 追赶某人。"
+    },
+    {
+      "q": "Something that you cannot explain is a ____.",
+      "type": "single",
+      "options": [
+        "mystery",
+        "history",
+        "victory",
+        "factory"
+      ],
+      "answer": 0,
+      "explain": "mystery 神秘事物、谜。"
+    },
+    {
+      "q": "The teacher ____ be angry with us, but I hope not.",
+      "type": "single",
+      "options": [
+        "might",
+        "must",
+        "can't",
+        "shouldn't"
+      ],
+      "answer": 0,
+      "explain": "不确定的可能性用 might。"
+    },
+    {
+      "q": "Which sentence is correct?",
+      "type": "single",
+      "options": [
+        "It is difficult for us to finish it.",
+        "It is difficult of us to finish it.",
+        "It is difficult for us finish it.",
+        "It difficult for us to finish."
+      ],
+      "answer": 0,
+      "explain": "It is + adj. + for sb + to do sth。"
+    },
+    {
+      "q": "The music next door is very loud. Our neighbours ____ be having a party.",
+      "type": "single",
+      "options": [
+        "must",
+        "can't",
+        "needn't",
+        "mustn't"
+      ],
+      "answer": 0,
+      "explain": "根据明显证据作肯定推测，用 must。"
+    },
+    {
+      "q": "Which modal verbs express possibility rather than certainty?",
+      "type": "multi",
+      "options": [
+        "might",
+        "could",
+        "may",
+        "must"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "must 表示很有把握的肯定推测。"
+    },
+    {
+      "q": "Which are possessive pronouns that can stand alone?",
+      "type": "multi",
+      "options": [
+        "mine",
+        "yours",
+        "theirs",
+        "my"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "my 是形容词性物主代词，后面必须接名词。"
+    },
+    {
+      "q": "Which sentences are correct?",
+      "type": "multi",
+      "options": [
+        "This must be his book.",
+        "It can't be Lucy's bag.",
+        "It mustn't be Lucy's bag.",
+        "She might be at school."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "推测的否定不用 mustn't，要用 can't。"
+    },
+    {
+      "q": "Which words describe not being sure?",
+      "type": "multi",
+      "options": [
+        "uncertain",
+        "unsure",
+        "confused",
+        "confident"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "confident 自信、确信，意思相反。"
+    },
+    {
+      "q": "'Must be' 表示说话人几乎可以肯定的推测。",
+      "type": "judge",
+      "answer": true,
+      "explain": "must be 表把握很大的肯定推测。"
+    },
+    {
+      "q": "'Belong to' 后面接宾格代词，如 him、her。",
+      "type": "judge",
+      "answer": true,
+      "explain": "belong to 后接宾格或名词。"
+    },
+    {
+      "q": "'Mine' 相当于 'my + 名词'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "名词性物主代词等于形容词性物主代词加名词。"
+    },
+    {
+      "q": "Stonehenge might have been used as a kind of calendar.",
+      "type": "judge",
+      "answer": true,
+      "explain": "课文提到巨石阵可能被用作某种日历。"
+    },
+    {
+      "q": "'Could be' 表示的把握比 'must be' 更大。",
+      "type": "judge",
+      "answer": false,
+      "explain": "could be 把握更小，must be 把握最大。"
+    },
+    {
+      "q": "'Happen to do sth' means to do something by chance.",
+      "type": "judge",
+      "answer": true,
+      "explain": "happen to do 碰巧做某事。"
+    },
+    {
+      "q": "'Run away' means to escape or leave quickly.",
+      "type": "judge",
+      "answer": true,
+      "explain": "run away 逃跑。"
+    },
+    {
+      "q": "表示推测'不可能'用 '____ be'（can 加 not 的缩写）。",
+      "type": "fill",
+      "answer": "can't",
+      "explain": "否定推测用 can't be。"
+    },
+    {
+      "q": "'发生'（不用于被动语态）的动词，以 h 开头，是 ____.",
+      "type": "fill",
+      "answer": "happen",
+      "explain": "happen 发生，无被动语态。"
+    },
+    {
+      "q": "Fill in the blank: This pen must be ____ (he).",
+      "type": "fill",
+      "answer": "his",
+      "explain": "此处用名词性物主代词 his。"
+    },
+    {
+      "q": "'追赶某人' — 'run ____ sb'.",
+      "type": "fill",
+      "answer": "after",
+      "explain": "run after sb 追赶某人。"
+    },
+    {
+      "q": "The noun form of the adjective 'mysterious' is ____.",
+      "type": "fill",
+      "answer": "mystery",
+      "explain": "mysterious 的名词形式是 mystery。"
+    },
+    {
+      "q": "'与……有关' — 'have something to ____ with'.",
+      "type": "fill",
+      "answer": "do",
+      "explain": "have something to do with 与……有关。"
+    },
+    {
+      "q": "'确定的；肯定的'（形容词，以 c 开头）is ____.",
+      "type": "fill",
+      "answer": "certain",
+      "explain": "certain 确定的，be certain about 对……确信。"
+    }
+  ],
+  "l3": [
+    {
+      "q": "This is the house ____ was built in 1950.",
+      "type": "single",
+      "options": [
+        "who",
+        "which",
+        "whom",
+        "what"
+      ],
+      "answer": 1,
+      "explain": "先行词是物，关系代词用 which 或 that。"
+    },
+    {
+      "q": "The teacher ____ taught us English has moved away.",
+      "type": "single",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": 1,
+      "explain": "先行词是人且作主语，用 who。"
+    },
+    {
+      "q": "I'll never forget the day ____ we first met.",
+      "type": "single",
+      "options": [
+        "which",
+        "when",
+        "who",
+        "whose"
+      ],
+      "answer": 1,
+      "explain": "先行词是时间且在从句中作状语，用 when。"
+    },
+    {
+      "q": "The song ____ she sang last night was very moving.",
+      "type": "single",
+      "options": [
+        "who",
+        "whom",
+        "that",
+        "what"
+      ],
+      "answer": 2,
+      "explain": "先行词是物作宾语，用 that/which。"
+    },
+    {
+      "q": "He is the man ____ car was stolen last week.",
+      "type": "single",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "answer": 2,
+      "explain": "表示所属关系用 whose。"
+    },
+    {
+      "q": "Everything ____ he said at the meeting is true.",
+      "type": "single",
+      "options": [
+        "which",
+        "that",
+        "who",
+        "what"
+      ],
+      "answer": 1,
+      "explain": "先行词是 everything 时只能用 that。"
+    },
+    {
+      "q": "I don't like music that is ____ loud.",
+      "type": "single",
+      "options": [
+        "too",
+        "so",
+        "very much",
+        "enough"
+      ],
+      "answer": 0,
+      "explain": "too loud 太吵。"
+    },
+    {
+      "q": "'Lyrics' means ____.",
+      "type": "single",
+      "options": [
+        "歌词",
+        "旋律",
+        "乐器",
+        "歌手"
+      ],
+      "answer": 0,
+      "explain": "lyrics 歌词，常用复数。"
+    },
+    {
+      "q": "In which sentence can the relative pronoun be left out?",
+      "type": "single",
+      "options": [
+        "The book I read was great.",
+        "The book that is on the desk is mine.",
+        "The man who called you is here.",
+        "The girl who sings is my friend."
+      ],
+      "answer": 0,
+      "explain": "关系代词作宾语时可以省略。"
+    },
+    {
+      "q": "I prefer movies ____ have happy endings.",
+      "type": "single",
+      "options": [
+        "who",
+        "that",
+        "whose",
+        "what"
+      ],
+      "answer": 1,
+      "explain": "先行词 movies 是物且作主语，用 that/which。"
+    },
+    {
+      "q": "'Stick to' means ____.",
+      "type": "single",
+      "options": [
+        "坚持",
+        "放弃",
+        "改变",
+        "忘记"
+      ],
+      "answer": 0,
+      "explain": "stick to 坚持、固守。"
+    },
+    {
+      "q": "Peking Opera is a kind of Chinese ____.",
+      "type": "single",
+      "options": [
+        "traditional art",
+        "modern dance",
+        "pop music",
+        "western opera"
+      ],
+      "answer": 0,
+      "explain": "京剧是中国传统艺术。"
+    },
+    {
+      "q": "Which relative pronouns can be omitted when they act as the object?",
+      "type": "multi",
+      "options": [
+        "that",
+        "which",
+        "who(m)",
+        "whose"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "whose 表所属，不能省略。"
+    },
+    {
+      "q": "Which sentences are correct?",
+      "type": "multi",
+      "options": [
+        "I like books that are about history.",
+        "She is a singer who writes her own songs.",
+        "This is the pen which I lost.",
+        "I like music who is quiet."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "D 项先行词是物，不能用 who。"
+    },
+    {
+      "q": "Which are musical instruments?",
+      "type": "multi",
+      "options": [
+        "erhu",
+        "piano",
+        "guitar",
+        "lyrics"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "lyrics 是歌词，不是乐器。"
+    },
+    {
+      "q": "Which words describe styles of music?",
+      "type": "multi",
+      "options": [
+        "pop",
+        "folk",
+        "classical",
+        "electricity"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "electricity 电，不是音乐风格。"
+    },
+    {
+      "q": "'Whose' 在定语从句中表示所属关系。",
+      "type": "judge",
+      "answer": true,
+      "explain": "whose 意为'……的'。"
+    },
+    {
+      "q": "先行词被 the only、all、everything 修饰时，通常用 that 而不用 which。",
+      "type": "judge",
+      "answer": true,
+      "explain": "这是只用 that 的常见情况。"
+    },
+    {
+      "q": "定语从句放在它所修饰的名词之前。",
+      "type": "judge",
+      "answer": false,
+      "explain": "定语从句放在被修饰名词之后。"
+    },
+    {
+      "q": "'Erquan Yingyue' is a famous piece of erhu music by Abing.",
+      "type": "judge",
+      "answer": true,
+      "explain": "《二泉映月》是阿炳的二胡名曲。"
+    },
+    {
+      "q": "关系代词 who 可以用来指代物。",
+      "type": "judge",
+      "answer": false,
+      "explain": "who 只指人，指物用 which/that。"
+    },
+    {
+      "q": "'Remind sb of sth' means to make someone think of something.",
+      "type": "judge",
+      "answer": true,
+      "explain": "remind sb of sth 使某人想起某事。"
+    },
+    {
+      "q": "'Prefer A to B' means to like A better than B.",
+      "type": "judge",
+      "answer": true,
+      "explain": "prefer A to B 更喜欢 A。"
+    },
+    {
+      "q": "'歌词' in English is ____ (usually plural).",
+      "type": "fill",
+      "answer": "lyrics",
+      "explain": "lyrics 常用复数形式。"
+    },
+    {
+      "q": "Fill in the blank: I like people ____ (who/which) are friendly.",
+      "type": "fill",
+      "answer": "who",
+      "explain": "先行词 people 指人，用 who。"
+    },
+    {
+      "q": "'电子音乐' — '____ music' (以 e 开头).",
+      "type": "fill",
+      "answer": "electronic",
+      "explain": "electronic music 电子音乐。"
+    },
+    {
+      "q": "The noun form of the verb 'perform' is ____.",
+      "type": "fill",
+      "answer": "performance",
+      "explain": "perform 的名词形式是 performance。"
+    },
+    {
+      "q": "'坚持做某事' — 'stick ____ doing sth'.",
+      "type": "fill",
+      "answer": "to",
+      "explain": "stick to doing sth，to 是介词。"
+    },
+    {
+      "q": "The noun form of the adjective 'sad' is ____.",
+      "type": "fill",
+      "answer": "sadness",
+      "explain": "sad 的名词形式是 sadness。"
+    },
+    {
+      "q": "Fill in the blank: This is the best film ____ (that/which) I have ever seen.",
+      "type": "fill",
+      "answer": "that",
+      "explain": "先行词被最高级修饰时用 that。"
+    }
+  ],
+  "l4": [
+    {
+      "q": "In China, you are supposed to ____ when you meet someone for the first time.",
+      "type": "single",
+      "options": [
+        "shake hands",
+        "kiss twice",
+        "bow deeply",
+        "hug tightly"
+      ],
+      "answer": 0,
+      "explain": "中国初次见面通常握手。"
+    },
+    {
+      "q": "You are not supposed ____ loudly in the library.",
+      "type": "single",
+      "options": [
+        "talk",
+        "to talk",
+        "talking",
+        "talked"
+      ],
+      "answer": 1,
+      "explain": "be supposed to do sth。"
+    },
+    {
+      "q": "In France, people often ____ each other on the cheek when they meet.",
+      "type": "single",
+      "options": [
+        "kiss",
+        "shake",
+        "bow",
+        "clap"
+      ],
+      "answer": 0,
+      "explain": "法国人见面常贴面吻。"
+    },
+    {
+      "q": "We are expected ____ our shoes before entering a Japanese home.",
+      "type": "single",
+      "options": [
+        "take off",
+        "to take off",
+        "taking off",
+        "takes off"
+      ],
+      "answer": 1,
+      "explain": "be expected to do sth。"
+    },
+    {
+      "q": "'Make a mistake' means ____.",
+      "type": "single",
+      "options": [
+        "犯错误",
+        "做决定",
+        "取得成功",
+        "改变主意"
+      ],
+      "answer": 0,
+      "explain": "make a mistake 犯错误。"
+    },
+    {
+      "q": "In Colombia, people are usually quite ____ about time.",
+      "type": "single",
+      "options": [
+        "relaxed",
+        "strict",
+        "angry",
+        "nervous"
+      ],
+      "answer": 0,
+      "explain": "课文提到哥伦比亚人对时间比较随意。"
+    },
+    {
+      "q": "'After all' means ____.",
+      "type": "single",
+      "options": [
+        "毕竟",
+        "总而言之",
+        "而且",
+        "例如"
+      ],
+      "answer": 0,
+      "explain": "after all 毕竟。"
+    },
+    {
+      "q": "It's ____ to point at people with your finger.",
+      "type": "single",
+      "options": [
+        "polite",
+        "impolite",
+        "kind",
+        "friendly"
+      ],
+      "answer": 1,
+      "explain": "用手指着别人是不礼貌的。"
+    },
+    {
+      "q": "You'd better ____ late for the appointment.",
+      "type": "single",
+      "options": [
+        "not be",
+        "not to be",
+        "be not",
+        "don't be"
+      ],
+      "answer": 0,
+      "explain": "had better not do sth。"
+    },
+    {
+      "q": "'Drop by' means ____.",
+      "type": "single",
+      "options": [
+        "顺便拜访",
+        "放弃",
+        "掉下来",
+        "路过不停"
+      ],
+      "answer": 0,
+      "explain": "drop by 顺便走访。"
+    },
+    {
+      "q": "In Japan, people usually ____ to show respect when greeting.",
+      "type": "single",
+      "options": [
+        "bow",
+        "wave wildly",
+        "kiss",
+        "clap"
+      ],
+      "answer": 0,
+      "explain": "日本人见面鞠躬。"
+    },
+    {
+      "q": "'Table manners' means ____.",
+      "type": "single",
+      "options": [
+        "餐桌礼仪",
+        "桌子的样式",
+        "餐厅服务",
+        "菜单"
+      ],
+      "answer": 0,
+      "explain": "table manners 餐桌礼仪。"
+    },
+    {
+      "q": "Which behaviours are polite at a Western dinner table?",
+      "type": "multi",
+      "options": [
+        "Keeping your elbows off the table",
+        "Saying 'please' and 'thank you'",
+        "Eating with your mouth closed",
+        "Making loud noises while eating"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "吃饭时发出很大声响不礼貌。"
+    },
+    {
+      "q": "Which sentences are correct?",
+      "type": "multi",
+      "options": [
+        "You are supposed to be on time.",
+        "She is supposed to arrive at six.",
+        "They are supposed go now.",
+        "We are not supposed to smoke here."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项漏了 to。"
+    },
+    {
+      "q": "Which are ways of greeting people?",
+      "type": "multi",
+      "options": [
+        "shaking hands",
+        "bowing",
+        "kissing on the cheek",
+        "running away"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "跑开不是问候方式。"
+    },
+    {
+      "q": "Which words are about customs and behaviour?",
+      "type": "multi",
+      "options": [
+        "manners",
+        "tradition",
+        "custom",
+        "machine"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "machine 机器与习俗无关。"
+    },
+    {
+      "q": "'Be supposed to do sth' 可以表示'应该做某事'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "相当于 should do sth。"
+    },
+    {
+      "q": "In Japan, bowing is a common way to greet people.",
+      "type": "judge",
+      "answer": true,
+      "explain": "鞠躬是日本常见的问候方式。"
+    },
+    {
+      "q": "在中国，把筷子直插在饭里是礼貌的做法。",
+      "type": "judge",
+      "answer": false,
+      "explain": "筷子插在饭中被视为不吉利、不礼貌。"
+    },
+    {
+      "q": "'Be expected to do sth' 可以和 'be supposed to do sth' 意思相近。",
+      "type": "judge",
+      "answer": true,
+      "explain": "两者都表示被期望、应该。"
+    },
+    {
+      "q": "In Switzerland, arriving late for a meeting is considered quite normal.",
+      "type": "judge",
+      "answer": false,
+      "explain": "瑞士人非常守时，迟到被视为无礼。"
+    },
+    {
+      "q": "Customs and manners are exactly the same in every country.",
+      "type": "judge",
+      "answer": false,
+      "explain": "不同国家的风俗礼仪差异很大。"
+    },
+    {
+      "q": "In a traditional Japanese house, you are expected to take off your shoes.",
+      "type": "judge",
+      "answer": true,
+      "explain": "进入日式房屋要脱鞋。"
+    },
+    {
+      "q": "The opposite of 'polite' formed with the prefix im- is ____.",
+      "type": "fill",
+      "answer": "impolite",
+      "explain": "im- 前缀表否定。"
+    },
+    {
+      "q": "Fill in the blank: You are supposed ____ (greet) people politely.",
+      "type": "fill",
+      "answer": "to greet",
+      "explain": "be supposed to do sth。"
+    },
+    {
+      "q": "'习俗；风俗'（以 c 开头）in English is ____.",
+      "type": "fill",
+      "answer": "custom",
+      "explain": "custom 习俗。"
+    },
+    {
+      "q": "'鞠躬'（以 b 开头）in English is ____.",
+      "type": "fill",
+      "answer": "bow",
+      "explain": "bow 鞠躬。"
+    },
+    {
+      "q": "'对时间很随意' — 'be ____ about time'（以 r 开头）.",
+      "type": "fill",
+      "answer": "relaxed",
+      "explain": "be relaxed about time 对时间不严格。"
+    },
+    {
+      "q": "'准时'的另一种说法是 'on ____'.",
+      "type": "fill",
+      "answer": "time",
+      "explain": "on time 准时。"
+    },
+    {
+      "q": "'指出' — 'point ____'.",
+      "type": "fill",
+      "answer": "out",
+      "explain": "point out 指出。"
+    }
+  ],
+  "l5": [
+    {
+      "q": "The bad news made her ____.",
+      "type": "single",
+      "options": [
+        "cry",
+        "to cry",
+        "crying",
+        "cried"
+      ],
+      "answer": 0,
+      "explain": "make sb do sth 不带 to。"
+    },
+    {
+      "q": "Bright colours can make a small room look ____.",
+      "type": "single",
+      "options": [
+        "bigger",
+        "big more",
+        "more big",
+        "biggest"
+      ],
+      "answer": 0,
+      "explain": "look 后接形容词比较级 bigger。"
+    },
+    {
+      "q": "The teacher made the students ____ the text aloud.",
+      "type": "single",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 0,
+      "explain": "make sb do sth。"
+    },
+    {
+      "q": "The boys were made ____ the classroom after school.",
+      "type": "single",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 1,
+      "explain": "make 的被动语态要还原 to。"
+    },
+    {
+      "q": "Which word means 'extremely tired'?",
+      "type": "single",
+      "options": [
+        "exhausted",
+        "excited",
+        "exciting",
+        "expensive"
+      ],
+      "answer": 0,
+      "explain": "exhausted 筋疲力尽的。"
+    },
+    {
+      "q": "She felt ____ when she heard the good news.",
+      "type": "single",
+      "options": [
+        "happily",
+        "happy",
+        "happiness",
+        "more happily"
+      ],
+      "answer": 1,
+      "explain": "feel 是系动词，后接形容词。"
+    },
+    {
+      "q": "The soup tastes ____.",
+      "type": "single",
+      "options": [
+        "well",
+        "deliciously",
+        "delicious",
+        "deliciousness"
+      ],
+      "answer": 2,
+      "explain": "taste 系动词后接形容词。"
+    },
+    {
+      "q": "'Let sb down' means ____.",
+      "type": "single",
+      "options": [
+        "使某人失望",
+        "让某人下来",
+        "放某人走",
+        "帮助某人"
+      ],
+      "answer": 0,
+      "explain": "let sb down 使某人失望。"
+    },
+    {
+      "q": "The old song ____ me of my childhood.",
+      "type": "single",
+      "options": [
+        "remembers",
+        "reminds",
+        "recalls to",
+        "memorizes"
+      ],
+      "answer": 1,
+      "explain": "remind sb of sth 使某人想起某事。"
+    },
+    {
+      "q": "In 'be + adj. + enough to do sth', 'enough' is placed ____.",
+      "type": "single",
+      "options": [
+        "before the adjective",
+        "after the adjective",
+        "before the verb",
+        "at the very end"
+      ],
+      "answer": 1,
+      "explain": "enough 修饰形容词时放在其后。"
+    },
+    {
+      "q": "Rainy days often make some people feel ____.",
+      "type": "single",
+      "options": [
+        "down",
+        "up",
+        "on",
+        "off"
+      ],
+      "answer": 0,
+      "explain": "feel down 情绪低落。"
+    },
+    {
+      "q": "'Have an influence on' means ____.",
+      "type": "single",
+      "options": [
+        "对……有影响",
+        "对……有兴趣",
+        "对……有帮助",
+        "对……有害"
+      ],
+      "answer": 0,
+      "explain": "have an influence on 对……有影响。"
+    },
+    {
+      "q": "Which adjectives describe feelings?",
+      "type": "multi",
+      "options": [
+        "nervous",
+        "relaxed",
+        "angry",
+        "wooden"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "wooden 木制的，不描述情绪。"
+    },
+    {
+      "q": "Which sentences are correct?",
+      "type": "multi",
+      "options": [
+        "Sad films make me cry.",
+        "The news made him angry.",
+        "He made me to wait for an hour.",
+        "We were made to work hard."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项主动语态中 make 后不加 to。"
+    },
+    {
+      "q": "Which verbs are linking verbs followed by adjectives?",
+      "type": "multi",
+      "options": [
+        "feel",
+        "look",
+        "sound",
+        "carry"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "carry 是实义动词，不是系动词。"
+    },
+    {
+      "q": "Which colours are often said to make people feel calm?",
+      "type": "multi",
+      "options": [
+        "blue",
+        "green",
+        "white",
+        "bright red"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "鲜红色通常让人兴奋而非平静。"
+    },
+    {
+      "q": "在主动语态中，'make sb do sth' 不带 to。",
+      "type": "judge",
+      "answer": true,
+      "explain": "make 后接不带 to 的不定式。"
+    },
+    {
+      "q": "'Feel like doing sth' means to want to do something.",
+      "type": "judge",
+      "answer": true,
+      "explain": "feel like doing 想要做某事。"
+    },
+    {
+      "q": "系动词 look、sound 后面要接副词。",
+      "type": "judge",
+      "answer": false,
+      "explain": "系动词后接形容词作表语。"
+    },
+    {
+      "q": "Bright red can make people feel excited or even nervous.",
+      "type": "judge",
+      "answer": true,
+      "explain": "鲜艳的红色让人兴奋甚至紧张。"
+    },
+    {
+      "q": "'Make sb + adj.' 表示使某人处于某种状态。",
+      "type": "judge",
+      "answer": true,
+      "explain": "形容词作宾语补足语。"
+    },
+    {
+      "q": "'Cheer sb up' means to make someone feel happier.",
+      "type": "judge",
+      "answer": true,
+      "explain": "cheer sb up 使某人振作、高兴起来。"
+    },
+    {
+      "q": "在主动语态中，let 和 make 后都接不带 to 的不定式。",
+      "type": "judge",
+      "answer": true,
+      "explain": "let/make sb do sth。"
+    },
+    {
+      "q": "'使某人振作起来' — 'cheer sb ____'.",
+      "type": "fill",
+      "answer": "up",
+      "explain": "cheer sb up。"
+    },
+    {
+      "q": "Fill in the blank: The film made me ____ (think) about life.",
+      "type": "fill",
+      "answer": "think",
+      "explain": "make sb do sth，用动词原形。"
+    },
+    {
+      "q": "The noun form of the adjective 'happy' is ____.",
+      "type": "fill",
+      "answer": "happiness",
+      "explain": "happy 的名词形式是 happiness。"
+    },
+    {
+      "q": "'紧张的；焦虑的'（以 n 开头）in English is ____.",
+      "type": "fill",
+      "answer": "nervous",
+      "explain": "nervous 紧张的。"
+    },
+    {
+      "q": "'对某人有影响' — 'have an influence ____ sb'.",
+      "type": "fill",
+      "answer": "on",
+      "explain": "have an influence on sb。"
+    },
+    {
+      "q": "Fill in the blank: We were made ____ (stay) at home that day.",
+      "type": "fill",
+      "answer": "to stay",
+      "explain": "被动语态中要还原 to。"
+    },
+    {
+      "q": "'精力；能量'（以 e 开头）in English is ____.",
+      "type": "fill",
+      "answer": "energy",
+      "explain": "energy 精力、能量。"
+    }
+  ],
+  "l6": [
+    {
+      "q": "By the time I finished my homework, my parents ____ to bed.",
+      "type": "single",
+      "options": [
+        "go",
+        "went",
+        "had gone",
+        "have gone"
+      ],
+      "answer": 2,
+      "explain": "过去之前发生的动作用过去完成时。"
+    },
+    {
+      "q": "She said she ____ the book before.",
+      "type": "single",
+      "options": [
+        "read",
+        "has read",
+        "had read",
+        "reads"
+      ],
+      "answer": 2,
+      "explain": "主句过去时，之前的动作用 had read。"
+    },
+    {
+      "q": "I ____ my keys at home, so I couldn't open the door.",
+      "type": "single",
+      "options": [
+        "leave",
+        "left",
+        "had left",
+        "have left"
+      ],
+      "answer": 2,
+      "explain": "把钥匙落在家里发生在开不了门之前。"
+    },
+    {
+      "q": "By the end of last year, he ____ over 100 books.",
+      "type": "single",
+      "options": [
+        "reads",
+        "read",
+        "had read",
+        "has read"
+      ],
+      "answer": 2,
+      "explain": "by the end of + 过去时间，用过去完成时。"
+    },
+    {
+      "q": "'Run out of' means ____.",
+      "type": "single",
+      "options": [
+        "用完",
+        "跑出去",
+        "逃跑",
+        "跑得快"
+      ],
+      "answer": 0,
+      "explain": "run out of 用完、耗尽。"
+    },
+    {
+      "q": "The old table was covered ____ dust.",
+      "type": "single",
+      "options": [
+        "with",
+        "of",
+        "from",
+        "to"
+      ],
+      "answer": 0,
+      "explain": "be covered with 被……覆盖。"
+    },
+    {
+      "q": "'Show up' means ____.",
+      "type": "single",
+      "options": [
+        "露面；出现",
+        "展示品",
+        "关掉",
+        "举起来"
+      ],
+      "answer": 0,
+      "explain": "show up 出现、露面。"
+    },
+    {
+      "q": "The plane ____ off before we got to the airport.",
+      "type": "single",
+      "options": [
+        "takes",
+        "took",
+        "had taken",
+        "has taken"
+      ],
+      "answer": 2,
+      "explain": "起飞在到达之前，用过去完成时。"
+    },
+    {
+      "q": "Which time expression is often used with the past perfect tense?",
+      "type": "single",
+      "options": [
+        "by the time",
+        "right now",
+        "at present",
+        "every day"
+      ],
+      "answer": 0,
+      "explain": "by the time 常与过去完成时连用。"
+    },
+    {
+      "q": "'Be filled with' has almost the same meaning as ____.",
+      "type": "single",
+      "options": [
+        "be full of",
+        "be busy with",
+        "be good at",
+        "be afraid of"
+      ],
+      "answer": 0,
+      "explain": "be filled with 等于 be full of 充满。"
+    },
+    {
+      "q": "I was very tired because I ____ all day.",
+      "type": "single",
+      "options": [
+        "work",
+        "worked",
+        "had worked",
+        "have worked"
+      ],
+      "answer": 2,
+      "explain": "疲惫之前已经工作了一整天。"
+    },
+    {
+      "q": "In this unit, 'set off' can mean ____.",
+      "type": "single",
+      "options": [
+        "出发",
+        "放下",
+        "建立",
+        "停止"
+      ],
+      "answer": 0,
+      "explain": "set off 出发、动身。"
+    },
+    {
+      "q": "Which sentences use the past perfect correctly?",
+      "type": "multi",
+      "options": [
+        "He had finished his work before I came.",
+        "By 2010, she had moved to Beijing.",
+        "I had gone there at 8 o'clock yesterday morning.",
+        "They had left when we arrived."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explain": "C 项有明确过去时间点，应用一般过去时。"
+    },
+    {
+      "q": "Which are unexpected or unlucky events?",
+      "type": "multi",
+      "options": [
+        "missing the bus",
+        "oversleeping",
+        "losing your keys",
+        "planning a trip carefully"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "认真计划旅行不是意外事件。"
+    },
+    {
+      "q": "Which phrases can mean 'to arrive'?",
+      "type": "multi",
+      "options": [
+        "get to",
+        "arrive in",
+        "reach",
+        "give up"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "give up 意为放弃。"
+    },
+    {
+      "q": "Which words describe feelings after something goes wrong?",
+      "type": "multi",
+      "options": [
+        "disappointed",
+        "upset",
+        "worried",
+        "delighted"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explain": "delighted 高兴的，不符合。"
+    },
+    {
+      "q": "过去完成时表示'过去的过去'。",
+      "type": "judge",
+      "answer": true,
+      "explain": "指过去某时之前已完成的动作。"
+    },
+    {
+      "q": "谈论过去时，'by the time' 从句后的主句常用过去完成时。",
+      "type": "judge",
+      "answer": true,
+      "explain": "by the time + 过去时从句，主句用过去完成时。"
+    },
+    {
+      "q": "'Oversleep' means to sleep longer than you planned.",
+      "type": "judge",
+      "answer": true,
+      "explain": "oversleep 睡过头。"
+    },
+    {
+      "q": "'Had + 过去分词' 适用于所有人称。",
+      "type": "judge",
+      "answer": true,
+      "explain": "过去完成时的 had 不随人称变化。"
+    },
+    {
+      "q": "过去完成时可以脱离任何过去的时间参照单独使用。",
+      "type": "judge",
+      "answer": false,
+      "explain": "过去完成时必须以某个过去时间或动作为参照。"
+    },
+    {
+      "q": "'Be about to do sth' means to be going to do it very soon.",
+      "type": "judge",
+      "answer": true,
+      "explain": "be about to do 即将做某事。"
+    },
+    {
+      "q": "April Fool's Day is on the first of April.",
+      "type": "judge",
+      "answer": true,
+      "explain": "愚人节是 4 月 1 日。"
+    },
+    {
+      "q": "The past participle of 'begin' is ____.",
+      "type": "fill",
+      "answer": "begun",
+      "explain": "begin-began-begun。"
+    },
+    {
+      "q": "Fill in the blank: By the time he arrived, the meeting ____ (end).",
+      "type": "fill",
+      "answer": "had ended",
+      "explain": "会议在他到达之前已结束。"
+    },
+    {
+      "q": "'用完；耗尽' — 'run ____ of'.",
+      "type": "fill",
+      "answer": "out",
+      "explain": "run out of 用完。"
+    },
+    {
+      "q": "'意想不到的事' — 'the ____'（在 expect 前加否定前缀并变形）.",
+      "type": "fill",
+      "answer": "unexpected",
+      "explain": "the unexpected 意外的事。"
+    },
+    {
+      "q": "The past participle of 'throw' is ____.",
+      "type": "fill",
+      "answer": "thrown",
+      "explain": "throw-threw-thrown。"
+    },
+    {
+      "q": "'即将做某事' — 'be about ____ do sth'.",
+      "type": "fill",
+      "answer": "to",
+      "explain": "be about to do sth。"
+    },
+    {
+      "q": "Fill in the blank: I ____ (never see) such a beautiful place before that day.",
+      "type": "fill",
+      "answer": "had never seen",
+      "explain": "过去完成时的否定形式。"
+    }
+  ]
+}

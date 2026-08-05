@@ -1,0 +1,62 @@
+{
+  "u1": [
+    { "q": "He ___ a postcard to his grandma yesterday.", "type": "single", "options": ["write", "writes", "wrote", "writing"], "answer": 2, "explain": "yesterday 用一般过去时，write 的过去式是 wrote。" },
+    { "q": "We ___ some old friends in the museum.", "type": "single", "options": ["meet", "met", "meets", "meeting"], "answer": 1, "explain": "叙述过去的事用过去式 met。" },
+    { "q": "The past form of eat is ate.", "type": "judge", "answer": true, "explain": "eat 是不规则动词，过去式 ate。" },
+    { "q": "I didn't buy ___ in the shop.", "type": "single", "options": ["something", "anything", "nothing", "everything"], "answer": 1, "explain": "否定句中用 anything 表示“任何东西”。" },
+    { "q": "There is ___ (something / anything) delicious in the fridge.", "type": "fill", "answer": "something", "explain": "肯定句用 something 表示“某样好吃的”。" },
+    { "q": "— Did you go with ___? — No, I went alone.", "type": "single", "options": ["someone", "anyone", "no one", "everyone"], "answer": 0, "explain": "疑问句表“和某人一起”用 someone。" },
+    { "q": "We use indefinite pronouns like everyone and something to talk about unknown people or things.", "type": "judge", "answer": true, "explain": "复合不定代词用来指代不确定的人或事物。" },
+    { "q": "She ___ (have) a great time at the beach.", "type": "single", "options": ["has", "have", "had", "having"], "answer": 2, "explain": "过去时态，have 的过去式是 had。" },
+    { "q": "Which are correct simple past forms?", "type": "multi", "options": ["go → went", "eat → eated", "see → saw", "buy → bought"], "answer": [0, 2, 3], "explain": "eat 的过去式是 ate，不是 eated。" },
+    { "q": "Everyone ___ (was / were) tired after the trip.", "type": "fill", "answer": "was", "explain": "everyone 作主语时谓语用单数 was。" }
+  ],
+  "u2": [
+    { "q": "— ___ do you read books? — Every day.", "type": "single", "options": ["How long", "How often", "How much", "How many"], "answer": 1, "explain": "问频率用 How often。" },
+    { "q": "He ___ eats breakfast, so he is hungry at noon.", "type": "single", "options": ["always", "often", "never", "usually"], "answer": 2, "explain": "从“中午就饿”推断他从不吃早餐，用 never。" },
+    { "q": "We use how often to ask about frequency.", "type": "judge", "answer": true, "explain": "How often 用来提问动作发生的频率。" },
+    { "q": "Milk is a(n) ___ noun.", "type": "single", "options": ["countable", "uncountable", "both", "neither"], "answer": 1, "explain": "milk 不可数，用 uncountable。" },
+    { "q": "There is ___ (many / much) water in the glass.", "type": "fill", "answer": "much", "explain": "water 不可数，用 much 修饰。" },
+    { "q": "Which are adverbs of frequency?", "type": "multi", "options": ["always", "sometimes", "quickly", "never"], "answer": [0, 1, 3], "explain": "quickly 是方式副词，不是频度副词。" },
+    { "q": "We say 'a piece of bread' because bread is uncountable.", "type": "judge", "answer": true, "explain": "bread 不可数，需用量词 a piece of。" },
+    { "q": "___ students in our class like sports.", "type": "single", "options": ["Much", "Many", "A little", "Few of"], "answer": 1, "explain": "students 可数复数，用 Many 修饰。" },
+    { "q": "I eat fruit ___ (two / twice) a day.", "type": "fill", "answer": "twice", "explain": "表示“两次”用 twice，不是 two。" },
+    { "q": "Most of my friends ___ (exercise / exercises) on weekends.", "type": "single", "options": ["exercise", "exercises", "exercising", "exercised"], "answer": 0, "explain": "friends 复数，谓语用原形 exercise。" }
+  ],
+  "u3": [
+    { "q": "This box is ___ than that one.", "type": "single", "options": ["heavy", "heavier", "heaviest", "more heavy"], "answer": 1, "explain": "两者比较用比较级 heavier。" },
+    { "q": "She is as ___ as her brother.", "type": "single", "options": ["tall", "taller", "tallest", "more tall"], "answer": 0, "explain": "as...as 原级比较，用原级 tall。" },
+    { "q": "We add -er to short adjectives to make the comparative.", "type": "judge", "answer": true, "explain": "短形容词加 -er 构成比较级。" },
+    { "q": "He is ___ (friendly) than me.", "type": "single", "options": ["friendly", "friendlier", "friendliest", "more friendly"], "answer": 1, "explain": "friendly 以 -ly 结尾，变比较级为 friendlier。" },
+    { "q": "The weather today is ___ (hot) than yesterday.", "type": "fill", "answer": "hotter", "explain": "hot 为重读闭音节，双写 t 加 er：hotter。" },
+    { "q": "Which use 'more' for the comparative?", "type": "multi", "options": ["small → smaller", "beautiful → more beautiful", "careful → more careful", "big → bigger"], "answer": [1, 2], "explain": "多音节词用 more 构成比较级。" },
+    { "q": "Both of them like music means only one of them likes music.", "type": "judge", "answer": false, "explain": "both 表示“两者都”，不是只有一个。" },
+    { "q": "I have ___ (many) books than you.", "type": "single", "options": ["many", "more", "most", "much"], "answer": 1, "explain": "than 提示比较级，many 的比较级是 more。" },
+    { "q": "The ___ (much) you read, the smarter you become.", "type": "fill", "answer": "more", "explain": "“the + 比较级…, the + 比较级…”句型，用 more。" },
+    { "q": "Tom runs ___ (fast) than his sister.", "type": "single", "options": ["fast", "faster", "fastest", "more fast"], "answer": 1, "explain": "fast 变比较级为 faster。" }
+  ],
+  "u4": [
+    { "q": "This is the ___ movie I have ever seen.", "type": "single", "options": ["good", "better", "best", "well"], "answer": 2, "explain": "ever 提示最高级，good 的最高级是 best。" },
+    { "q": "Which is the ___ (cheap) one?", "type": "single", "options": ["cheap", "cheaper", "cheapest", "most cheap"], "answer": 2, "explain": "最高级 cheapest；cheap 直接加 -est。" },
+    { "q": "We use the before a superlative adjective.", "type": "judge", "answer": true, "explain": "最高级前通常加 the。" },
+    { "q": "— Which do you like ___ , A or B? — A.", "type": "single", "options": ["well", "better", "best", "good"], "answer": 1, "explain": "两者选择用比较级 better。" },
+    { "q": "Which are superlative forms?", "type": "multi", "options": ["big → biggest", "tall → tallest", "small → smaller", "nice → nicest"], "answer": [0, 1, 3], "explain": "smaller 是比较级，不是最高级。" },
+    { "q": "We use 'or' to give a choice between two things.", "type": "judge", "answer": true, "explain": "选择疑问句用 or 连接两个选项。" },
+    { "q": "It has the ___ (friendly) service in town.", "type": "fill", "answer": "friendliest", "explain": "friendly 最高级 friendliest。" },
+    { "q": "One of the ___ (popular) songs is this one.", "type": "single", "options": ["popular", "more popular", "most popular", "popularest"], "answer": 2, "explain": "one of + the + 最高级 + 复数名词，用 most popular。" },
+    { "q": "The seat is the most ___ (comfort) in the cinema.", "type": "fill", "answer": "comfortable", "explain": "comfort 的形容词是 comfortable。" },
+    { "q": "Who sings ___ (well) in your class?", "type": "single", "options": ["well", "better", "best", "good"], "answer": 2, "explain": "in your class 范围内用最高级 best。" }
+  ],
+  "u5": [
+    { "q": "He decided ___ (go) home early.", "type": "single", "options": ["go", "to go", "going", "went"], "answer": 1, "explain": "decide 后接不定式 to do。" },
+    { "q": "She expects ___ (win) the game.", "type": "single", "options": ["win", "to win", "winning", "won"], "answer": 1, "explain": "expect 后接 to do。" },
+    { "q": "We use to + verb (infinitive) after want and hope.", "type": "judge", "answer": true, "explain": "want/hope 后接动词不定式。" },
+    { "q": "A ___ is a show with a funny situation and characters.", "type": "single", "options": ["sitcom", "news", "talent show", "cartoon"], "answer": 0, "explain": "情景喜剧 sitcom 以搞笑情境和人物为特点。" },
+    { "q": "We planned ___ (watch) the match.", "type": "fill", "answer": "to watch", "explain": "plan 后接 to do。" },
+    { "q": "Which words can be followed by to do?", "type": "multi", "options": ["want", "hope", "enjoy", "decide"], "answer": [0, 1, 3], "explain": "enjoy 后接 doing，不是 to do。" },
+    { "q": "News is an uncountable noun, so we can say 'a news'.", "type": "judge", "answer": false, "explain": "news 不可数，不能说 a news。" },
+    { "q": "The movie is very ___ (education).", "type": "single", "options": ["education", "educational", "educate", "educated"], "answer": 1, "explain": "需用形容词 educational（有教育意义的）。" },
+    { "q": "He would like ___ (be) a reporter.", "type": "fill", "answer": "to be", "explain": "would like 后接 to do。" },
+    { "q": "— What do you think ___ the game show? — It's OK.", "type": "single", "options": ["of", "about", "for", "over"], "answer": 0, "explain": "think of 表示“认为……怎么样”。" }
+  ]
+}
