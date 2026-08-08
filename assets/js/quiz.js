@@ -32,6 +32,11 @@
 
   function isEn() { return Q.subject && Q.subject.lang === 'en'; }
 
+  /* 判断是否为“纯数字答案”（允许前置 ± / - / + 及小数），用于数学题收紧判分 */
+  function isNum(s) {
+    return /^±?[-+]?(\d+(\.\d*)?|\.\d+)$/.test(s);
+  }
+
   /* ---------- 开始页 ---------- */
   function renderIntro() {
     var st = A.S.settings;
@@ -274,9 +279,22 @@
     var q = Q.list[i], a = Q.answers[i];
     if (a == null) return false;
     if (q.type === 'fill') {
+      // 关键词匹配：答案不唯一。用户作答只要命中正确关键词/字即判对。
+      // 三个方向都算对：
+      //   1) 作答 == 关键词（完全相等）
+      //   2) 作答 包含 关键词（学生多写了上下文，如“北京市”含“北京”）
+      //   3) 关键词 包含 作答（学生只写了核心词，如“北京”是“北京市”的子串）
+      // 特例：数学题的“纯数字答案”只允许完全相等，避免“10”被误判为“0”。
       var accepts = Array.isArray(q.answer) ? q.answer : [q.answer];
       var na = A.norm(a);
-      return accepts.some(function (x) { return A.norm(x) === na; });
+      if (!na) return false;
+      var mathStrict = Q.subject && Q.subject.id === 'math';
+      return accepts.some(function (x) {
+        var nx = A.norm(x);
+        if (!nx) return false;
+        if (mathStrict && isNum(na) && isNum(nx)) return na === nx; // 数字答案仅相等
+        return na === nx || na.indexOf(nx) >= 0 || nx.indexOf(na) >= 0;
+      });
     }
     if (q.type === 'multi') {
       var s1 = (a || []).slice().sort().join(','), s2 = (q.answer || []).slice().sort().join(',');
